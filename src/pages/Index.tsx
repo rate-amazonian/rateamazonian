@@ -1,37 +1,77 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { Search, TrendingUp, Users, Heart } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useQuery } from "@tanstack/react-query";
-import { loadAmazonians, aggregateStats, getTrending } from "@/lib/data";
+import { loadAmazonians, aggregateStats, getTrending, getRatings } from "@/lib/data";
 // Resolve the logo via URL so Vite bundles it reliably
 const logoUrl = new URL("../data/rate.jpeg", import.meta.url).href;
 
 const Index = () => {
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState("");
+  const [ratingsVersion, setRatingsVersion] = useState(0);
+
+  // Listen for localStorage changes to refresh data
+  useEffect(() => {
+    const handleStorageChange = () => {
+      setRatingsVersion(prev => prev + 1);
+    };
+
+    window.addEventListener('storage', handleStorageChange);
+    
+    // Also check for changes every second
+    const interval = setInterval(() => {
+      const currentRatings = getRatings();
+      const currentLength = currentRatings.length;
+      if (currentLength !== ratingsVersion) {
+        setRatingsVersion(currentLength);
+      }
+    }, 1000);
+
+    return () => {
+      window.removeEventListener('storage', handleStorageChange);
+      clearInterval(interval);
+    };
+  }, [ratingsVersion]);
 
   const { data: stats } = useQuery({
-    queryKey: ["stats"],
+    queryKey: ["stats", ratingsVersion],
     queryFn: async () => {
-      const people = await loadAmazonians();
+      const people = await loadAmazonians("executives");
       const decorated = aggregateStats(people);
       const totalRatings = decorated.reduce((s, p: any) => s + (p.total_ratings || 0), 0);
       return { totalBosses: decorated.length, totalRatings };
     },
+    staleTime: 0, // Always consider data stale
   });
 
   const { data: topBosses } = useQuery({
-    queryKey: ["topBosses"],
+    queryKey: ["topBosses", ratingsVersion],
     queryFn: async () => {
-      const people = await loadAmazonians();
+      const people = await loadAmazonians("executives");
       const decorated = aggregateStats(people)
+        .filter((p: any) => p.total_ratings > 0) // Only employees with ratings
         .sort((a: any, b: any) => (b.average_rating || 0) - (a.average_rating || 0))
         .slice(0, 3);
       return decorated as any[];
     },
+    staleTime: 0, // Always consider data stale
+  });
+
+  const { data: worstBosses } = useQuery({
+    queryKey: ["worstBosses", ratingsVersion],
+    queryFn: async () => {
+      const people = await loadAmazonians("executives");
+      const decorated = aggregateStats(people)
+        .filter((p: any) => p.total_ratings > 0) // Only employees with ratings
+        .sort((a: any, b: any) => (a.average_rating || 0) - (b.average_rating || 0))
+        .slice(0, 3);
+      return decorated as any[];
+    },
+    staleTime: 0, // Always consider data stale
   });
 
   const handleSearch = () => {
@@ -102,9 +142,8 @@ const Index = () => {
               
               <Button
                 size="lg"
-                variant="outline"
                 onClick={() => navigate("/employees")}
-                className="border-2 hover:bg-muted/50 transition-all hover:scale-105 rounded-xl px-8 py-6 text-lg shadow-lg"
+                className="bg-gradient-to-r from-primary to-secondary hover:opacity-90 transition-all hover:scale-105 rounded-xl px-8 py-6 text-lg shadow-lg"
               >
                 Browse All
                 <Users className="ml-2 w-5 h-5" />
@@ -146,27 +185,43 @@ const Index = () => {
       </section>
 
       {/* Top Rated Section */}
-      {topBosses && topBosses.length > 0 && (
+      {topBosses && topBosses.length > 0 ? (
         <section className="container mx-auto px-4 py-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-            Top Rated Amazonians
-          </h2>
+          <div className="text-center mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
+              🌟 Amazon's "Rare Gems" 🌟
+            </h2>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              The unicorns of Amazon! These mythical creatures actually exist and are... 
+              <br />
+              <span className="text-sm italic">dare we say it... decent? 😱</span>
+            </p>
+          </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
-            {topBosses.map((boss) => (
+            {topBosses.map((boss, index) => (
               <Card
                 key={boss.username}
-                className="group cursor-pointer overflow-hidden hover:shadow-2xl transition-all duration-300 hover:scale-105"
+                className="group cursor-pointer overflow-hidden hover:shadow-2xl transition-all duration-300 hover:scale-105 backdrop-blur-sm bg-card/30 border border-border/40"
                 onClick={() => navigate(`/boss/${boss.username}`)}
               >
-                <div className="aspect-square overflow-hidden">
+                <div className="aspect-square overflow-hidden relative">
                   <img
                     src={boss.photo_url || "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400"}
                     alt={boss.full_name}
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
                   />
+                  <div className="absolute top-2 right-2 bg-gradient-to-r from-primary to-secondary text-white text-xs px-2 py-1 rounded-full font-bold shadow-lg">
+                    {index === 0 ? "👑" : index === 1 ? "🥈" : "🥉"}
+                  </div>
+                  <div className="absolute bottom-2 left-2 bg-black/70 text-white text-xs px-2 py-1 rounded-full">
+                    #{index + 1} Best
+                  </div>
+                  <div className="absolute top-2 left-2 bg-gradient-to-r from-primary to-secondary text-white text-xs px-2 py-1 rounded-full font-bold">
+                    ⭐ Rare
+                  </div>
                 </div>
                 <div className="p-4">
-                  <h3 className="font-bold text-lg mb-1">{boss.full_name}</h3>
+                  <h3 className="font-bold text-lg mb-1 text-foreground">{boss.full_name}</h3>
                   <p className="text-sm text-muted-foreground mb-2">
                     {boss.job_title}
                   </p>
@@ -178,9 +233,104 @@ const Index = () => {
                       ({boss.total_ratings} ratings)
                     </div>
                   </div>
+                  <div className="mt-2 text-xs text-primary font-medium">
+                    {boss.total_ratings === 0 ? "Not rated yet (but probably amazing)" : "Actually liked by humans!"}
+                  </div>
                 </div>
               </Card>
             ))}
+          </div>
+          <div className="text-center mt-8">
+            <p className="text-sm text-muted-foreground italic">
+              🦄 Fun fact: These people are so rare, they might be the only ones who don't make you want to quit on Monday mornings
+            </p>
+          </div>
+        </section>
+      ) : (
+        <section className="container mx-auto px-4 py-16">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
+              🌟 Amazon's "Rare Gems" 🌟
+            </h2>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              No employees have been rated yet! 
+              <br />
+              <span className="text-sm italic">Start swiping to create the first ratings! 🚀</span>
+            </p>
+          </div>
+        </section>
+      )}
+
+      {/* Worst Rated Section */}
+      {worstBosses && worstBosses.length > 0 ? (
+        <section className="container mx-auto px-4 py-16">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
+              🚨 Amazon's "Finest" 🚨
+            </h2>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              The cream of the crop... or should we say, the bottom of the barrel? 
+              <br />
+              <span className="text-sm italic">These folks make working at Amazon... interesting 😅</span>
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+            {worstBosses.map((boss, index) => (
+              <Card
+                key={boss.username}
+                className="group cursor-pointer overflow-hidden hover:shadow-2xl transition-all duration-300 hover:scale-105 backdrop-blur-sm bg-card/30 border border-border/40"
+                onClick={() => navigate(`/boss/${boss.username}`)}
+              >
+                <div className="aspect-square overflow-hidden relative">
+                  <img
+                    src={boss.photo_url || "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400"}
+                    alt={boss.full_name}
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300 grayscale group-hover:grayscale-0"
+                  />
+                  <div className="absolute top-2 right-2 bg-gradient-to-r from-primary to-secondary text-white text-xs px-2 py-1 rounded-full font-bold shadow-lg">
+                    {index === 0 ? "💀" : index === 1 ? "🔥" : "⚠️"}
+                  </div>
+                  <div className="absolute bottom-2 left-2 bg-black/70 text-white text-xs px-2 py-1 rounded-full">
+                    #{index + 1} Worst
+                  </div>
+                </div>
+                <div className="p-4">
+                  <h3 className="font-bold text-lg mb-1 text-foreground">{boss.full_name}</h3>
+                  <p className="text-sm text-muted-foreground mb-2">
+                    {boss.job_title}
+                  </p>
+                  <div className="flex items-center gap-2">
+                    <div className="text-2xl font-bold text-primary">
+                      {boss.average_rating.toFixed(1)}
+                    </div>
+                    <div className="text-sm text-muted-foreground">
+                      ({boss.total_ratings} ratings)
+                    </div>
+                  </div>
+                  <div className="mt-2 text-xs text-primary font-medium">
+                    {boss.total_ratings === 0 ? "Not rated yet (probably for the best)" : "Rated by brave souls"}
+                  </div>
+                </div>
+              </Card>
+            ))}
+          </div>
+          <div className="text-center mt-8">
+            <p className="text-sm text-muted-foreground italic">
+              💡 Pro tip: If you see your manager here, maybe start updating that resume... 
+            </p>
+          </div>
+        </section>
+      ) : (
+        <section className="container mx-auto px-4 py-16">
+          <div className="text-center mb-8">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 bg-gradient-to-r from-primary via-secondary to-primary bg-clip-text text-transparent">
+              🚨 Amazon's "Finest" 🚨
+            </h2>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
+              No employees have been rated yet! 
+              <br />
+              <span className="text-sm italic">Start swiping to see who makes the "worst" list! 😅</span>
+            </p>
           </div>
         </section>
       )}

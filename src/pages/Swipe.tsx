@@ -1,10 +1,13 @@
 import { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { Heart, X, ArrowLeft } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
-import { loadAmazonians, aggregateStats } from "@/lib/data";
+import { loadAmazonians, aggregateStats, addRating } from "@/lib/data";
 import { toast } from "sonner";
+
+// Resolve the logo via URL so Vite bundles it reliably
+const logoUrl = new URL("../data/rate.jpeg", import.meta.url).href;
 
 const Swipe = () => {
   const navigate = useNavigate();
@@ -14,16 +17,22 @@ const Swipe = () => {
   const [sessionId] = useState(() => `session_${Date.now()}_${Math.random()}`);
 
   const { data: bosses, isLoading } = useQuery({
-    queryKey: ["bosses"],
+    queryKey: ["bosses", "executives"],
     queryFn: async () => {
-      const people = await loadAmazonians();
+      const people = await loadAmazonians("executives");
       return aggregateStats(people) as any[];
     },
   });
 
-  const reactionMutation = useMutation({
-    mutationFn: async (_: { bossId: string; type: "like" | "dislike" }) => {
-      // Placeholder: could track local reactions later
+  const ratingMutation = useMutation({
+    mutationFn: async ({ username, rating }: { username: string; rating: number }) => {
+      addRating({ username, rating });
+    },
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: ["bosses"] });
+      queryClient.invalidateQueries({ queryKey: ["topBosses"] });
+      queryClient.invalidateQueries({ queryKey: ["worstBosses"] });
+      queryClient.invalidateQueries({ queryKey: ["stats"] });
     },
   });
 
@@ -34,13 +43,14 @@ const Swipe = () => {
 
     setSwipeDirection(direction);
     
-    const reactionType = direction === "right" ? "like" : "dislike";
-    reactionMutation.mutate({ bossId: currentBoss.id, type: reactionType });
+    // Rate based on direction: right = like (5 stars), left = dislike (1 star)
+    const rating = direction === "right" ? 5 : 1;
+    ratingMutation.mutate({ username: currentBoss.username, rating });
 
     toast.success(
       direction === "right" 
-        ? `You liked ${currentBoss.name}!` 
-        : `You disliked ${currentBoss.name}`
+        ? `You liked ${currentBoss.full_name}! ⭐⭐⭐⭐⭐` 
+        : `You disliked ${currentBoss.full_name} 👎`
     );
 
     setTimeout(() => {
@@ -57,16 +67,22 @@ const Swipe = () => {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-background flex items-center justify-center">
-        <div className="text-2xl font-semibold text-muted-foreground">Loading...</div>
+      <div className="min-h-screen flex items-center justify-center" style={{
+        background: '#B6898D',
+        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+      }}>
+        <div className="text-2xl font-semibold text-white">Loading...</div>
       </div>
     );
   }
 
   if (!bosses || bosses.length === 0) {
     return (
-      <div className="min-h-screen bg-background flex flex-col items-center justify-center p-4">
-        <div className="text-2xl font-bold mb-4">No bosses to swipe yet!</div>
+      <div className="min-h-screen flex flex-col items-center justify-center p-4" style={{
+        background: '#B6898D',
+        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+      }}>
+        <div className="text-2xl font-bold mb-4 text-white">No bosses to swipe yet!</div>
         <Button variant="outline" onClick={() => navigate("/")}>Go Home</Button>
       </div>
     );
@@ -74,8 +90,11 @@ const Swipe = () => {
 
   if (currentIndex >= bosses.length) {
     return (
-      <div className="min-h-screen bg-background flex flex-col items-center justify-center p-4">
-        <div className="text-3xl font-bold mb-4">You've seen them all!</div>
+      <div className="min-h-screen flex flex-col items-center justify-center p-4" style={{
+        background: '#B6898D',
+        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+      }}>
+        <div className="text-3xl font-bold mb-4 text-white">You've seen them all!</div>
         <Button onClick={() => setCurrentIndex(0)} className="mb-2">
           Start Over
         </Button>
@@ -87,7 +106,22 @@ const Swipe = () => {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-background via-muted/30 to-background flex flex-col">
+    <div className="min-h-screen flex flex-col" style={{
+      background: '#ECBB39',
+      background: 'radial-gradient(at left top, #ECBB39, #EB6D2E)'
+    }}>
+      <Link to="/" className="fixed top-4 left-4 z-50 flex items-center gap-2">
+        <div
+          className="relative h-40 w-40 rounded-full shadow-2xl overflow-hidden ring-1 ring-border/40 animate-[spin_12s_linear_infinite]"
+          style={{
+            background:
+              "radial-gradient( circle at 30% 30%, rgba(255,255,255,0.85), rgba(255,255,255,0.08) 40%), conic-gradient(from 220deg at 50% 50%, hsl(var(--primary)) 0%, hsl(var(--secondary)) 35%, hsl(var(--primary)) 70%, hsl(var(--secondary)) 100%)",
+          }}
+        >
+          <img src={logoUrl} alt="RateAmazonian" className="absolute inset-0 h-full w-full object-cover rounded-full opacity-95" />
+          <div className="absolute -top-6 -left-6 h-24 w-24 rounded-full bg-white/50 blur-xl" />
+        </div>
+      </Link>
       {/* Header */}
       <div className="container mx-auto px-4 py-6 flex items-center justify-between">
         <Button
@@ -98,7 +132,7 @@ const Swipe = () => {
         >
           <ArrowLeft className="w-6 h-6" />
         </Button>
-        <div className="text-lg font-semibold text-muted-foreground">
+        <div className="text-lg font-semibold text-white">
           {currentIndex + 1} / {bosses.length}
         </div>
         <div className="w-10" /> {/* Spacer */}
@@ -146,20 +180,19 @@ const Swipe = () => {
                       
                       <div className="flex items-center gap-2 text-sm opacity-90">
                         <Heart className="w-4 h-4 fill-current" />
-                        <span>{currentBoss.total_likes}</span>
+                        <span>{currentBoss.total_ratings || 0}</span>
                         <span className="mx-1">•</span>
-                        <X className="w-4 h-4" />
-                        <span>{currentBoss.total_dislikes}</span>
+                        <span className="text-xs">ratings</span>
                       </div>
                     </div>
                   </div>
                 </div>
 
-                {/* Bio */}
-                {currentBoss.bio && (
+                {/* Department Info */}
+                {currentBoss.department_name && (
                   <div className="p-6">
                     <p className="text-muted-foreground leading-relaxed">
-                      {currentBoss.bio}
+                      Department: {currentBoss.department_name}
                     </p>
                   </div>
                 )}

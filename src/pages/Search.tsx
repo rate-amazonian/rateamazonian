@@ -1,11 +1,14 @@
 import { useState, useEffect } from "react";
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate, useSearchParams, Link } from "react-router-dom";
 import { ArrowLeft, Search as SearchIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card } from "@/components/ui/card";
 import { useQuery } from "@tanstack/react-query";
 import { loadAmazonians, searchAmazonians, aggregateStats } from "@/lib/data";
+
+// Resolve the logo via URL so Vite bundles it reliably
+const logoUrl = new URL("../data/rate.jpeg", import.meta.url).href;
 
 const Search = () => {
   const navigate = useNavigate();
@@ -27,6 +30,18 @@ const Search = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-muted/30 to-background">
+      <Link to="/" className="fixed top-4 left-4 z-50 flex items-center gap-2">
+        <div
+          className="relative h-40 w-40 rounded-full shadow-2xl overflow-hidden ring-1 ring-border/40 animate-[spin_12s_linear_infinite]"
+          style={{
+            background:
+              "radial-gradient( circle at 30% 30%, rgba(255,255,255,0.85), rgba(255,255,255,0.08) 40%), conic-gradient(from 220deg at 50% 50%, hsl(var(--primary)) 0%, hsl(var(--secondary)) 35%, hsl(var(--primary)) 70%, hsl(var(--secondary)) 100%)",
+          }}
+        >
+          <img src={logoUrl} alt="RateAmazonian" className="absolute inset-0 h-full w-full object-cover rounded-full opacity-95" />
+          <div className="absolute -top-6 -left-6 h-24 w-24 rounded-full bg-white/50 blur-xl" />
+        </div>
+      </Link>
       {/* Header */}
       <div className="bg-card/50 backdrop-blur-sm border-b sticky top-0 z-10">
         <div className="container mx-auto px-4 py-4">

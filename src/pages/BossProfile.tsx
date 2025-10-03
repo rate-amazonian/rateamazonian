@@ -1,4 +1,4 @@
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import { useState } from "react";
 import { ArrowLeft, Heart, X, Star, MessageSquare, ThumbsUp, ThumbsDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -8,6 +8,7 @@ import { Input } from "@/components/ui/input";
 import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import { loadAmazonians, aggregateStats, addComment, addRating, getComments } from "@/lib/data";
 import { toast } from "sonner";
+
 
 const BossProfile = () => {
   const { id } = useParams();
@@ -21,7 +22,7 @@ const BossProfile = () => {
   const { data: boss, isLoading } = useQuery({
     queryKey: ["boss", id],
     queryFn: async () => {
-      const people = await loadAmazonians();
+      const people = await loadAmazonians("executives");
       const person = people.find((p) => p.username === id);
       if (!person) return null as any;
       const [decorated] = aggregateStats([person]);
@@ -79,23 +80,32 @@ const BossProfile = () => {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-background flex items-center justify-center">
-        <div className="text-2xl font-semibold text-muted-foreground">Loading...</div>
+      <div className="min-h-screen flex items-center justify-center" style={{
+        background: '#B6898D',
+        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+      }}>
+        <div className="text-2xl font-semibold text-white">Loading...</div>
       </div>
     );
   }
 
   if (!boss) {
     return (
-      <div className="min-h-screen bg-background flex flex-col items-center justify-center">
-        <div className="text-2xl font-bold mb-4">Amazonian not found</div>
+      <div className="min-h-screen flex flex-col items-center justify-center" style={{
+        background: '#B6898D',
+        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+      }}>
+        <div className="text-2xl font-bold mb-4 text-white">Amazonian not found</div>
         <Button onClick={() => navigate("/")}>Go Home</Button>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-background via-muted/30 to-background">
+    <div className="min-h-screen" style={{
+      background: '#B6898D',
+      background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+    }}>
       {/* Header */}
       <div className="bg-card/50 backdrop-blur-sm border-b sticky top-0 z-10">
         <div className="container mx-auto px-4 py-4 flex items-center">
@@ -107,7 +117,7 @@ const BossProfile = () => {
           >
             <ArrowLeft className="w-6 h-6" />
           </Button>
-          <h1 className="ml-4 text-xl font-bold">{boss.full_name}</h1>
+          <h1 className="ml-4 text-xl font-bold text-white">{boss.full_name}</h1>
         </div>
       </div>
 
