@@ -1,0 +1,1033 @@
+{
+  "category": "vp",
+  "total_count": 114,
+  "generated_at": "2025-10-03T17:19:53.472Z",
+  "employees": [
+    {
+      "username": "ecadams",
+      "full_name": "Eric Adams (PXT)",
+      "job_title": "VP, AMX and Compensation",
+      "department_name": "AMX GTM",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "joagboka",
+      "full_name": "J. Ofori Agboka",
+      "job_title": "VP PXT, Global Operations",
+      "department_name": "Ops PXT - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "j",
+      "full_name": "J Allard",
+      "job_title": "Vice President",
+      "department_name": "Amazon Devices - ZeroOne",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "caubrey",
+      "full_name": "Colleen Aubrey",
+      "job_title": "SVP, AWS Applied AI Solutions",
+      "department_name": "AWS - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "badyar",
+      "full_name": "Rajeev Badyal",
+      "job_title": "VP Technology",
+      "department_name": "Kuiper Satellite Network",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "girishb",
+      "full_name": "Girish Bajaj",
+      "job_title": "VP Core Tech, PV & Studios",
+      "department_name": "PV WW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "eabaker",
+      "full_name": "Elizabeth Baker",
+      "job_title": "VP, Private Pricing",
+      "department_name": "AWS GDSP Other",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 14
+    },
+    {
+      "username": "cmbeau",
+      "full_name": "Christine Beauchamp",
+      "job_title": "SVP, NA Stores",
+      "department_name": "NA Stores Product Lines G&A",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "bergerdi",
+      "full_name": "Dan Berger",
+      "job_title": "VP, Media and Ent. Comms",
+      "department_name": "Public Relations - GME",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "bertucci",
+      "full_name": "Carlo Bertucci",
+      "job_title": "VP, Corporate Development",
+      "department_name": "Business & Corp Development",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "abhoy",
+      "full_name": "Abhoy Bhaktwatsalam",
+      "job_title": "VP Amzn Publisher Monetization",
+      "department_name": "APM Core Insights - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "amitavab",
+      "full_name": "Amit Bhattacharyya",
+      "job_title": "VP, Vertical Ad Products",
+      "department_name": "Ads - Verticals - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "rtb",
+      "full_name": "Ruba Borno",
+      "job_title": "VP, AWS Specialists & Partners",
+      "department_name": "AWS WWCO Partner Management",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 15
+    },
+    {
+      "username": "ericbran",
+      "full_name": "Eric Brandwine",
+      "job_title": "VP/Distinguished Engineer",
+      "department_name": "Amazon Security Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "buechel",
+      "full_name": "Jason Buechel",
+      "job_title": "VP, WWGS & CEO, Whole Foods",
+      "department_name": "Stores G&A",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "dcanavor",
+      "full_name": "Darren Canavor",
+      "job_title": "VP/Distinguished Engineer",
+      "department_name": "Amazon Security Leadership",
+      "level": 2,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gcarpe",
+      "full_name": "Gail Carpenter",
+      "job_title": "VP, WW Stores Finance",
+      "department_name": "Stores Finance G&A",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "candigbl",
+      "full_name": "Candi Castleberry (she/her)",
+      "job_title": "VP, Inclusive Exp and Tech",
+      "department_name": "IXT",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "mcha",
+      "full_name": "Melissa Cha",
+      "job_title": "VP, Health Tech",
+      "department_name": "Emerging Products",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "albcheng",
+      "full_name": "Albert Cheng",
+      "job_title": "VP, Prime Video US",
+      "department_name": "PV WW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "kricunn",
+      "full_name": "Kristie Cunningham",
+      "job_title": "VP, Communications, AWS",
+      "department_name": "Public Relations - AWS",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "kellyxd",
+      "full_name": "Kelly Day",
+      "job_title": "VP, International, Prime Video",
+      "department_name": "PV WW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "deal",
+      "full_name": "Michael Deal (Legal)",
+      "job_title": "VP & Associate General Counsel",
+      "department_name": "Legal - GME Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "desantis",
+      "full_name": "Peter DeSantis",
+      "job_title": "SVP, AWS Utility Computing",
+      "department_name": "AWS - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "despinsp",
+      "full_name": "Paula Despins",
+      "job_title": "VP, Ads Measurement",
+      "department_name": "Msrmt & Data Science - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "adevore",
+      "full_name": "Andrew DeVore (Legal)",
+      "job_title": "VP & Associate General Counsel",
+      "department_name": "Legal-Litig&Regulatory-General",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "dibboj",
+      "full_name": "James Dibbo",
+      "job_title": "VP Entertainment, Ads & Corp D",
+      "department_name": "CorpDev Finance",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 15
+    },
+    {
+      "username": "pdonati",
+      "full_name": "Pablo Donati",
+      "job_title": "VP, AWS PXT",
+      "department_name": "AWS HR",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "johnfelt",
+      "full_name": "John Felton (Seattle)",
+      "job_title": "SVP, AWS CFO",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "mfosa",
+      "full_name": "Michael Foster",
+      "job_title": "VP PXT, Amazon Talent Acq.",
+      "department_name": "ATA - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "nedimf",
+      "full_name": "Nedim Fresko",
+      "job_title": "VP, Alexa Devices",
+      "department_name": "Alexa Customers & Technology",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "brittyo",
+      "full_name": "Britt Gannon",
+      "job_title": "VP Ad Creative, Trust, Support",
+      "department_name": "ACTS Fixed (fka 7964)",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "djgeorge",
+      "full_name": "Dave George (FinTech)",
+      "job_title": "VP, Tech Software Development",
+      "department_name": "Finance Technology",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "russ",
+      "full_name": "Russell Grandinetti",
+      "job_title": "SVP, Intl Stores",
+      "department_name": "G&A - International Retail",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "adamgray",
+      "full_name": "Adam Gray",
+      "job_title": "VP, Product, Prime Video",
+      "department_name": "PV WW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "lgrit",
+      "full_name": "Laura Grit",
+      "job_title": "VP/DE, Technical Advisor",
+      "department_name": "AWS - Administration",
+      "level": 2,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rgroene",
+      "full_name": "Ralf Groene",
+      "job_title": "Vice President",
+      "department_name": "Device and Services Design Grp",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 19
+    },
+    {
+      "username": "gdan",
+      "full_name": "Dan Grossman",
+      "job_title": "VP, Corporate Development",
+      "department_name": "Business & Corp Development",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "timhall",
+      "full_name": "Tim Halladay",
+      "job_title": "VP, Finance Operations",
+      "department_name": "FinOps",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 21
+    },
+    {
+      "username": "tmh",
+      "full_name": "Tonya Hallett (she her)",
+      "job_title": "VP, PXT- Amazon Stores & G&A",
+      "department_name": "Stores Line HR",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 14
+    },
+    {
+      "username": "dexhar",
+      "full_name": "Dexter Harris",
+      "job_title": "VP, Corporate FP&A",
+      "department_name": "Corp FP&A",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "chrtmnn",
+      "full_name": "Christoph Hartmann",
+      "job_title": "VP, Amazon Games",
+      "department_name": "AGS Studio Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "whherma",
+      "full_name": "Wes Herman",
+      "job_title": "VP Tech Data Science, Devices",
+      "department_name": "Amazon Devices-Demand Planning",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "markhoff",
+      "full_name": "Mark Hoffman (Legal)",
+      "job_title": "VP&AGC,Corp/Sec/M&A,Corp Sec’y",
+      "department_name": "Legal - Corporate",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "karahurs",
+      "full_name": "Kara Hurst",
+      "job_title": "VP, Sustainability",
+      "department_name": "WW Sustainability Corp",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "bhuseman",
+      "full_name": "Brian Huseman",
+      "job_title": "VP, Public Policy",
+      "department_name": "Public Policy - Americas",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "brentj",
+      "full_name": "Brent Jaye",
+      "job_title": "VP, Amazonian Exp and Tech",
+      "department_name": "AET Global Services",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "kprasad",
+      "full_name": "(Prasad) Kalyanaraman",
+      "job_title": "VP, AWS Infrastructure Service",
+      "department_name": "Infrastructure Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "keikevin",
+      "full_name": "Kevin Keith (Devices)",
+      "job_title": "VP, Devices",
+      "department_name": "Amazon Device Products -Tahoe",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "komorous",
+      "full_name": "Nick Komorous",
+      "job_title": "VP, Corporate Development",
+      "department_name": "Business & Corp Development",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "kurtlamp",
+      "full_name": "Kurt Lamp",
+      "job_title": "VP, Global Tax",
+      "department_name": "Tax",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "peterla",
+      "full_name": "Peter Larsen",
+      "job_title": "VP, MCCF",
+      "department_name": "Multichannel C&Fulfillment",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "chrislee",
+      "full_name": "Christina Lee",
+      "job_title": "VP, Rep & Content Strategy",
+      "department_name": "Reputation Markting&Insights-M",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "ianlevy",
+      "full_name": "Ian Levy",
+      "job_title": "VP/Distinguished Engineer",
+      "department_name": "Amazon Security Leadership",
+      "level": 2,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nlindsay",
+      "full_name": "Neil Lindsay",
+      "job_title": "SVP, Health",
+      "department_name": "AHS Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "loritsch",
+      "full_name": "Michael Loritsch",
+      "job_title": "VP, Pub Tech",
+      "department_name": "Ads PublishersTechnology-Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "aidavidl",
+      "full_name": "David Luan",
+      "job_title": "VP, Autonomy & AGI SF Lab",
+      "department_name": "AGI Autonomy",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "kmacln",
+      "full_name": "Kelly MacLean",
+      "job_title": "VP, Amazon DSP",
+      "department_name": "Ads Technology",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "uditm",
+      "full_name": "Udit Madan",
+      "job_title": "SVP, WW Operations",
+      "department_name": "WW Operations",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "mainsah",
+      "full_name": "Evaristus Mainsah",
+      "job_title": "VP PXT Ads",
+      "department_name": "HR - Ads, IMDb, and Grand Chal",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "marty",
+      "full_name": "Martyn Mallick",
+      "job_title": "VP, WW Corporate Bus Dev",
+      "department_name": "Business & Corp Development",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "aidansm",
+      "full_name": "Aidan Marcuss",
+      "job_title": "VP FireTV & Advertising",
+      "department_name": "FTV - Experience",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "jmarine",
+      "full_name": "Jay Marine",
+      "job_title": "VP, PV Head of Sports & Ads",
+      "department_name": "PV WW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "llmason",
+      "full_name": "Llew Mason",
+      "job_title": "VP, Shopping",
+      "department_name": "Shopping",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "tmasone",
+      "full_name": "Tony Masone",
+      "job_title": "VP and Treasurer",
+      "department_name": "Treasury",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "matsouka",
+      "full_name": "Spyros Matsoukas",
+      "job_title": "VP/Distinguished Scientist AGI",
+      "department_name": "AGI",
+      "level": 2,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mccrate",
+      "full_name": "Ryan McCrate",
+      "job_title": "VP & Associate General Counsel",
+      "department_name": "Legal - Devices",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "dharmesm",
+      "full_name": "Dharmesh Mehta",
+      "job_title": "VP WW Selling Partner Services",
+      "department_name": "SPS G&A",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "mildenbe",
+      "full_name": "Mark Mildenberger",
+      "job_title": "VP & AGC, AWS",
+      "department_name": "Legal - AWS Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "johnmorg",
+      "full_name": "John Morgan, (Legal)",
+      "job_title": "VP & Associate General Counsel",
+      "department_name": "Legal - Intl Stores - RoW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "alanmoss",
+      "full_name": "Alan Moss",
+      "job_title": "VP, Global Ad Sales",
+      "department_name": "Ads Sales Mgmt - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "mewtoo",
+      "full_name": "Muthu Muthukrishnan",
+      "job_title": "VP, Sponsored Products",
+      "department_name": "Sponsored Products - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 18
+    },
+    {
+      "username": "nemeth",
+      "full_name": "John Nemeth",
+      "job_title": "VP, Devices Online CX",
+      "department_name": "Amazon Dvcs-Direct Sales(Tech)",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "noskoc",
+      "full_name": "Chris Nosko",
+      "job_title": "VP, Economist",
+      "department_name": "Stores Economics and Science",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "ohrt",
+      "full_name": "Curt Ohrt",
+      "job_title": "VP Tech",
+      "department_name": "Digital Acceleration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "palacios",
+      "full_name": "Alfonso Palacios",
+      "job_title": "VP, AGI Data Services",
+      "department_name": "AGI Data Services - Admin",
+      "level": 2,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cpaull",
+      "full_name": "Claire Paull",
+      "job_title": "VP of Marketing, Ads",
+      "department_name": "Ads Marketing - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "kinley",
+      "full_name": "Kinley Pearsall",
+      "job_title": "VP, Devices, Security & AI",
+      "department_name": "Public Relations - Devices",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "grp",
+      "full_name": "Greg Pearson",
+      "job_title": "VP, AWS Global Sales",
+      "department_name": "HQ-AGS-Global-All-CS",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "perlet",
+      "full_name": "Dan Perlet",
+      "job_title": "VP, Stores-Ads-Exec Comms",
+      "department_name": "Exec Comms + Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "phmichae",
+      "full_name": "Michael Phillips",
+      "job_title": "VP, WW Corporate Bus Dev",
+      "department_name": "Business & Corp Development",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "pointer",
+      "full_name": "Susan Pointer",
+      "job_title": "VP, Public Policy, EMEA & APAC",
+      "department_name": "Intl Public Policy",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "punke",
+      "full_name": "Michael Punke",
+      "job_title": "VP Global AWS Public Policy",
+      "department_name": "Public Policy - AWS & AWS ED",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "wpurboo",
+      "full_name": "Wayne Purboo",
+      "job_title": "VP, Amazon Shopping Video",
+      "department_name": "Amazon Live",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "ramakrk",
+      "full_name": "Karthik Ramakrishnan",
+      "job_title": "VP, AGI Foundations",
+      "department_name": "AGI Foundations",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "drausch",
+      "full_name": "Daniel Rausch",
+      "job_title": "VP, Alexa & Echo",
+      "department_name": "Alexa Orchestration Engine",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "kbuvac",
+      "full_name": "Kathrin Renz",
+      "job_title": "VP, AWS Industries",
+      "department_name": "AWS - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "shelleyr",
+      "full_name": "Shelley Reynolds",
+      "job_title": "VP, Worldwide Controller",
+      "department_name": "Accounting",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "mailjay",
+      "full_name": "Jay Richman",
+      "job_title": "VP, CreativeX",
+      "department_name": "Creative X - Fixed",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "matthaid",
+      "full_name": "Cherie Robinson",
+      "job_title": "VP PXT, Devices & Services",
+      "department_name": "Devices HR",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "tyrogers",
+      "full_name": "Ty Rogers",
+      "job_title": "VP, Corporate Communications",
+      "department_name": "Public Relations - Corp Comm",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "rothman",
+      "full_name": "Michelle Rothman",
+      "job_title": "VP, Shopping",
+      "department_name": "PV WW",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "rouhi",
+      "full_name": "Leila Rouhi",
+      "job_title": "VP, Trust & Privacy",
+      "department_name": "Trust CX Innovations&AI Policy",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "saarnio",
+      "full_name": "Eric Saarnio",
+      "job_title": "VP, Devices International",
+      "department_name": "EU Devices Marketing & Sales",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "scarafia",
+      "full_name": "Barbara Scarafia",
+      "job_title": "VP & Associate General Counsel",
+      "department_name": "Legal - Intl Stores - Europe",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "shanaa",
+      "full_name": "Adeeb Shanaa",
+      "job_title": "VP, AGI Data Services",
+      "department_name": "AGI Data Services - Admin",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "vsalx",
+      "full_name": "Vishal Sharma",
+      "job_title": "VP, AGI Information",
+      "department_name": "AGI Information-Exp Tech",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "ksheehan",
+      "full_name": "Kathy Sheehan",
+      "job_title": "VP, Business Conduct & Ethics",
+      "department_name": "Legal - Ethics & Conduct",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "cems",
+      "full_name": "Cem (Jem) Sibay",
+      "job_title": "VP, Corporate Development",
+      "department_name": "Business & Corp Development",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "swami",
+      "full_name": "Swami Sivasubramanian",
+      "job_title": "VP, Agentic AI",
+      "department_name": "Agentic AI Leadership",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 15
+    },
+    {
+      "username": "lindos",
+      "full_name": "Lindo St. Angel",
+      "job_title": "VP, Hardware",
+      "department_name": "Hardware - Mgt",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 15
+    },
+    {
+      "username": "rstites",
+      "full_name": "Robert Stites",
+      "job_title": "VP, Ops and Supply Chain",
+      "department_name": "Operations and Supply Chain",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "johns",
+      "full_name": "John Stone (Legal)",
+      "job_title": "VP, Stores & Operations Legal",
+      "department_name": "Legal - WW Ops",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "tobias",
+      "full_name": "Tobias Straub",
+      "job_title": "VP, Devices & Services Finance",
+      "department_name": "DaS Finance - IPAT/Admin",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "nikko",
+      "full_name": "Nikko Strom",
+      "job_title": "VP/Distinguished Scientist AGI",
+      "department_name": "AGI",
+      "level": 2,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tread",
+      "full_name": "Dave Treadwell",
+      "job_title": "SVP eCommerce Foundation",
+      "department_name": "eCF Management",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 16
+    },
+    {
+      "username": "uukpong",
+      "full_name": "Uwem Ukpong",
+      "job_title": "VP, Global Services",
+      "department_name": "CrosGloblServiceIntiatve-FIXED",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "clval",
+      "full_name": "Courtenay Valenti",
+      "job_title": "VP Film",
+      "department_name": "MGM Film Tech & Content",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "werner",
+      "full_name": "Werner Vogels",
+      "job_title": "VP and CTO, AWS",
+      "department_name": "AWS - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "krystal",
+      "full_name": "Krys Walsh-Allen",
+      "job_title": "VP, CXBT & Amazon CS",
+      "department_name": "CXBT Leadership & Trends Tech",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "aweaver",
+      "full_name": "Andrew Weaver",
+      "job_title": "VP Business Development",
+      "department_name": "Devices BD",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "juliadw",
+      "full_name": "Julia White",
+      "job_title": "VP, WW AWS Marketing",
+      "department_name": "AWS - Administration",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 28
+    },
+    {
+      "username": "wirobert",
+      "full_name": "Robert Williams",
+      "job_title": "VP, Device Software & Services",
+      "department_name": "Device Software & QA - Mgt",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "ianwl",
+      "full_name": "Ian Wilson (PXT)",
+      "job_title": "VP, Sr Talent & Transformation",
+      "department_name": "PXT Sr Talent &Transformation",
+      "level": 2,
+      "is_manager": true,
+      "direct_reports": 10
+    }
+  ]
+}

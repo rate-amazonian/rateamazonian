@@ -1,0 +1,4768 @@
+{
+  "category": "finance",
+  "total_count": 529,
+  "generated_at": "2025-10-03T17:20:23.590Z",
+  "employees": [
+    {
+      "username": "faizalnu",
+      "full_name": "Faiza .",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "hharshi",
+      "full_name": "Harshitha .",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "zabeeull",
+      "full_name": "Zabeeulla A",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "anura",
+      "full_name": "Andrew Abeyesinghe",
+      "job_title": "Senior Finance Principal",
+      "department_name": "Ads Brand Products&Solns-Fixed",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "adjthoma",
+      "full_name": "Thomas Adams",
+      "job_title": "Eisner GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "moyoade",
+      "full_name": "Moyo Adereti",
+      "job_title": "Finance Apprentice",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "navadula",
+      "full_name": "Naveena Adula",
+      "job_title": "Financial Risk Specialist",
+      "department_name": "AP Waste,Fraud,&Abuse Prev-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sluagaja",
+      "full_name": "Luke Agajanian",
+      "job_title": "Production Finance Coordinator",
+      "department_name": "PV Studios-Production&PostProd",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gunjagg",
+      "full_name": "Gunjan Aggarwal",
+      "job_title": "AFBP - Finance",
+      "department_name": "Accts Payable NonInventory-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yashagr",
+      "full_name": "Yash Agrawal",
+      "job_title": "AFBP - Finance",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "toobaams",
+      "full_name": "Tooba ahmed",
+      "job_title": "Finance Apprentice",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aahrahul",
+      "full_name": "Rahul Ahuja",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "RBS Flex Org Variable",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "amikailm",
+      "full_name": "Mika'il Al-Alam",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "alcalajc",
+      "full_name": "Jay Alcala",
+      "job_title": "Head Finance, Prime Video JP",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "pimenro",
+      "full_name": "Rodrigo Alegria",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rezax",
+      "full_name": "Resana Aleksi",
+      "job_title": "ES Production Finance Exec",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ashejall",
+      "full_name": "Ashton Allen",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "robames",
+      "full_name": "Rob Ames",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "chrwand",
+      "full_name": "Chris Anderson",
+      "job_title": "Principal Finance",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "anpalo",
+      "full_name": "Paloma Andres",
+      "job_title": "Finance Manger",
+      "department_name": "Amazon Music Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ajrachel",
+      "full_name": "Rachel Andrew",
+      "job_title": "Head of MGM Production Finance",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "donderko",
+      "full_name": "Daniela Angulo Onderkova",
+      "job_title": "Senior Finance Specialist",
+      "department_name": "FinOps - AR AWS - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ahsona",
+      "full_name": "Ahson Anwer",
+      "job_title": "SFM, US Consumables Finance",
+      "department_name": "US Consumables Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "apsaryut",
+      "full_name": "Yute Apsari",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "arandael",
+      "full_name": "Procy Aranda",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bolaosca",
+      "full_name": "Oscar Arguedas Bolanos",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "arrietnm",
+      "full_name": "Natalia Arrieta",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aryapn",
+      "full_name": "Pranay Arya",
+      "job_title": "B2B Payments Finance (L6)",
+      "department_name": "Amazon Lending Invoicing",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "baasthan",
+      "full_name": "Bhavya Asthana",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "camiawad",
+      "full_name": "Camille Awad",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "awasthir",
+      "full_name": "Raghav Awasthi",
+      "job_title": "Principal Finance",
+      "department_name": "Grocery Shared Field - Fixed",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "eladaz",
+      "full_name": "Elad Azoulay",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "abhanumb",
+      "full_name": "Bhanumathi B",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sweachir",
+      "full_name": "Sweatha B",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "varnabab",
+      "full_name": "Varna Babu",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dylanbac",
+      "full_name": "Dylan Bachra",
+      "job_title": "Finance Apprentice",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bpunitt",
+      "full_name": "Punit Badugu",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "baeshaka",
+      "full_name": "Esha Kaur Bains",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jasobaln",
+      "full_name": "Jason Ballard",
+      "job_title": "Principal Finance",
+      "department_name": "Kuiper Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "keerba",
+      "full_name": "Keerthi Bandarapally",
+      "job_title": "BIE, SCOT Finance",
+      "department_name": "WW Ops Finance - S&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "banhj",
+      "full_name": "Jessica Banh",
+      "job_title": "Head of AU Retail Finance",
+      "department_name": "Intl Emerging Finance FP&A",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "vikb",
+      "full_name": "Vikas Bansal",
+      "job_title": "Dir, Payments & Financial Svcs",
+      "department_name": "IN Payments, Experience",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "ancapope",
+      "full_name": "Anca Demetra Bararu",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kbbarnes",
+      "full_name": "Kate Barnes",
+      "job_title": "Exec Asst, DAC Finance",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "losterta",
+      "full_name": "Lucile Barone Ostertag",
+      "job_title": "Finance Business Partner",
+      "department_name": "EU OHL Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pclbarre",
+      "full_name": "Clarissa Barrett",
+      "job_title": "Assistant Finance Controller",
+      "department_name": "ACS&PT Facilities Vendor Heads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "karbar",
+      "full_name": "Karolina Bartulska",
+      "job_title": "Principal Finance",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "bhavitha",
+      "full_name": "Bhavitha Battu",
+      "job_title": "Financial Risk Specialist, L4",
+      "department_name": "AP Waste,Fraud,&Abuse Prev-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bearnco",
+      "full_name": "Collin Bearnson",
+      "job_title": "Financial Health Specialist",
+      "department_name": "Benefits",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bederka",
+      "full_name": "Andrej Bederka",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "charqbel",
+      "full_name": "Chad Bell",
+      "job_title": "Teleion GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "hermaber",
+      "full_name": "Herma Berberian",
+      "job_title": "Head of Studios Finance & FP&A",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "blikkirc",
+      "full_name": "Kira Blikshteyn",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "bbobins",
+      "full_name": "Brian Bobinski",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "vbolleni",
+      "full_name": "Veer Bolleni",
+      "job_title": "Finance ACES Specialist",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rbowden",
+      "full_name": "Richard Bowden",
+      "job_title": "Finance Dir, EU Supply Chain",
+      "department_name": "WW Ops Finance - Onsite Trans",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "jessjbre",
+      "full_name": "Jess Brennan",
+      "job_title": "Commercial Finance Partner",
+      "department_name": "Intl Emerging Finance FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lbrodmar",
+      "full_name": "Marcin Brodowski",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jbrook",
+      "full_name": "Jeremiah Brooks",
+      "job_title": "Head of Financial Risk",
+      "department_name": "Amazon Pay - Product/Ops",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "brigidab",
+      "full_name": "Brigida Brunacci",
+      "job_title": "EU MOD Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "burtrb",
+      "full_name": "Bryan Burt",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "buzdamia",
+      "full_name": "Damian Buzuk",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "fcabe",
+      "full_name": "Francesco Caberlin",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mscader",
+      "full_name": "Mohamed Cader",
+      "job_title": "Finance Manger",
+      "department_name": "Amazon Music Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "vcalljen",
+      "full_name": "Jenna Calles",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "vlgarc",
+      "full_name": "Valeria Cambronero Garcia",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nbonilla",
+      "full_name": "Natalia Campos Bonilla",
+      "job_title": "Finance P&D Specialist",
+      "department_name": "FinOps - AR AWS - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yirucao",
+      "full_name": "Ruby Cao",
+      "job_title": "Finance Assistant",
+      "department_name": "Ring Fin/Acct",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "crpalex",
+      "full_name": "Alexandra Carp",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yinkacas",
+      "full_name": "Yinka Cassidy",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ncestra",
+      "full_name": "Nicola Cestra",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance-E2E International",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "charpth",
+      "full_name": "Thomas Charpié",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rahulvc",
+      "full_name": "Rahul Chaudhari",
+      "job_title": "Automation Lead - Finance ACES",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "chenleyi",
+      "full_name": "Leyi Chen",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jcleen",
+      "full_name": "Jason Cheong-Leen",
+      "job_title": "Principal Finance",
+      "department_name": "Corp FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cheranga",
+      "full_name": "Ranga Cherukuri",
+      "job_title": "DE II, Finance Automation",
+      "department_name": "FinAuto - FinCommon",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rmchilds",
+      "full_name": "Richard Childs",
+      "job_title": "Senior Finance Principal",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "anchiles",
+      "full_name": "Andrew Chiles",
+      "job_title": "Principal Finance",
+      "department_name": "Pricing,Promotions&VIT Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pkch",
+      "full_name": "Pavan Kumar Chittinedi",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bangsil",
+      "full_name": "Bangsil Cho",
+      "job_title": "Finance Mger - Book Depository",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "ulchomcz",
+      "full_name": "Luiza Chomczynska",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jonart",
+      "full_name": "Jon Christopher",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pavchriv",
+      "full_name": "Pavan Christopher D'souza",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tiffchu",
+      "full_name": "Tiffany Chu",
+      "job_title": "GDO Strategy and Finance Lead",
+      "department_name": "Mrkting Tech&Measur-GDO-Fixed",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "pravchuk",
+      "full_name": "Pravishya Chukkala",
+      "job_title": "AFBP - Finance",
+      "department_name": "Amazon CS Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pcichawa",
+      "full_name": "Paulina Cichawa",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "clanjane",
+      "full_name": "Janet Clancy",
+      "job_title": "Principal, Finance",
+      "department_name": "One Medical - Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cleachr",
+      "full_name": "Christopher Cleary",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "conbeczm",
+      "full_name": "Marta Con-Beczkowska",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "cnnollc",
+      "full_name": "Christina Connolly",
+      "job_title": "Production Finance Associate",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tedconr",
+      "full_name": "Ted Conrad",
+      "job_title": "Principal, Finance",
+      "department_name": "WW Stores IPAT A&S",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cookmle",
+      "full_name": "Alex Cook",
+      "job_title": "SFA, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gcossoni",
+      "full_name": "Gustavo Cossoniche",
+      "job_title": "Finance Intern",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ciobanmi",
+      "full_name": "Mihaela Cozma",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "crijm",
+      "full_name": "James Craig",
+      "job_title": "WW Financial Services, Sr. PSA",
+      "department_name": "AWS Partner SA",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "leocrive",
+      "full_name": "Leonardo Crivellaro",
+      "job_title": "Finance Business Partner",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "crottydc",
+      "full_name": "David Crotty",
+      "job_title": "Head of Financial Services",
+      "department_name": "Field-AGS-UKI-ENT-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "phmira",
+      "full_name": "Pedro Henrique da Cruz Miranda",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "fredcud",
+      "full_name": "Fred Cudmore",
+      "job_title": "Head of Finance - Veeqo",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "arcullen",
+      "full_name": "Andy Cullen",
+      "job_title": "Principal Finance, PV Ads",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "cutila",
+      "full_name": "Ilaria Cutrone",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jolantac",
+      "full_name": "Jolanta Czuba",
+      "job_title": "Principal Finance",
+      "department_name": "CrosGloblServiceIntiatve-FIXED",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dambra",
+      "full_name": "Andrea D'Ambrosio",
+      "job_title": "Principal Finance",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "braddahl",
+      "full_name": "Bradley Dahl",
+      "job_title": "Senior Finance Leader",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "sharmida",
+      "full_name": "Sharmila Das",
+      "job_title": "Senior Finance Principal",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "eadg",
+      "full_name": "Edgar Dasilva",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "daviscc",
+      "full_name": "Christopher Davis",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tugbad",
+      "full_name": "Tuğba Dayanç",
+      "job_title": "Head of Finance",
+      "department_name": "MENA Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "guidagui",
+      "full_name": "Guilherme de Aguiar",
+      "job_title": "Finance Intern",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rutdeleo",
+      "full_name": "Ruth De Leon",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "degraff",
+      "full_name": "Brooke DeGraff",
+      "job_title": "Principal Finance",
+      "department_name": "WW Stores Strategic Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "fedebono",
+      "full_name": "Federico del Bono",
+      "job_title": "Sr. Finance Principal",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ridelfie",
+      "full_name": "Riley del Fierro",
+      "job_title": "Unify GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "cdeppe",
+      "full_name": "Charlie Deppe",
+      "job_title": "Finance Apprentice",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "akshades",
+      "full_name": "Akshay Deshpande",
+      "job_title": "Principal Finance",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nandha",
+      "full_name": "Nanditha Dhatrak",
+      "job_title": "Finance ACES Specialist",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dimaioaa",
+      "full_name": "Armando Di Maio",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "diairina",
+      "full_name": "Irina Diaconu",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "odiner",
+      "full_name": "Olga Diner",
+      "job_title": "Principal Finance",
+      "department_name": "Multichannel Comme&F f-Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jdinhto",
+      "full_name": "Jimmy Dinh",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "callumjd",
+      "full_name": "Callum Donnelly",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gabdoria",
+      "full_name": "Gabriel Doria",
+      "job_title": "Finance Intern",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cladormb",
+      "full_name": "Claudia Dorman",
+      "job_title": "MRI GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "prdoshi",
+      "full_name": "Prasad Doshi",
+      "job_title": "AFBP - Finance",
+      "department_name": "FinOps - AR CDO - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cuustarr",
+      "full_name": "Carlos Duarte Ustarroz",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pdubbaka",
+      "full_name": "Prashanth Dubbaka",
+      "job_title": "Financial Specialist- AP",
+      "department_name": "Accts Payable Retail- VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dudzik",
+      "full_name": "Krystian Dudziak",
+      "job_title": "EU Finance Business Partner",
+      "department_name": "Ops PXT - WFS Fixed",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "reddula",
+      "full_name": "Red Dula",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "durisv",
+      "full_name": "Vishal Duriseti",
+      "job_title": "Finance Dir-Middle Mile & Tech",
+      "department_name": "Ops Finance-E2E North America",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "dusakl",
+      "full_name": "Lauren Dusak",
+      "job_title": "Senior Finance Principal",
+      "department_name": "Finance & SIC - Fixed",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "ridhidut",
+      "full_name": "Ridhi Dutta",
+      "job_title": "Finance Six Sigma Black belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tawadzan",
+      "full_name": "Tawanda Dzangare",
+      "job_title": "Principal Finance",
+      "department_name": "DaS Finance - EDS&M",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sunileda",
+      "full_name": "Sunil Kumar Eda",
+      "job_title": "Sr WW Specialist - SAP Finance",
+      "department_name": "AWS WWSO SAP Workloads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "esterob",
+      "full_name": "Rob Estes",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Business Systems",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yutoezur",
+      "full_name": "Yuto Ezure",
+      "job_title": "Principal Finance",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "danfais",
+      "full_name": "Danyal Faisal",
+      "job_title": "Finance Apprentice",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "falkn",
+      "full_name": "Nikolas Falke",
+      "job_title": "EU SL Central Finance Lead",
+      "department_name": "EU Softlines Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "fangyizh",
+      "full_name": "George Fang",
+      "job_title": "Principal Finance",
+      "department_name": "JP Retail Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "uega",
+      "full_name": "Uma Fani",
+      "job_title": "Sr. Finance Specialist",
+      "department_name": "Accts Payable Retail- VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "farahc",
+      "full_name": "Carlos Farah",
+      "job_title": "Head of Finance MX Stores",
+      "department_name": "LATAM Finance Team",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "harisfyz",
+      "full_name": "Haris Fayyaz",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "crifede",
+      "full_name": "Cristian Federico",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "felweron",
+      "full_name": "Weronika Feliksiak",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "antwferr",
+      "full_name": "Antonio Ferrari Arlandis",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gaoferre",
+      "full_name": "Guilherme Ferreira",
+      "job_title": "Finance Intern",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sofiafl",
+      "full_name": "Sofia Ferreira Leite",
+      "job_title": "Finance Business Partner",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gabfig",
+      "full_name": "Gabriela Figueira",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ninanet",
+      "full_name": "Nina Filia Kelly",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tfillyaw",
+      "full_name": "Tami Fillyaw",
+      "job_title": "Leader, SLG Finance & Admin",
+      "department_name": "AWS Public Sector Sales:US-SLG",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "kfinbow",
+      "full_name": "Kevin Finbow",
+      "job_title": "Head Production Finance APAC",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "marlonyf",
+      "full_name": "Marlon Fordjour",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "steffaf",
+      "full_name": "Steffan Freckleton",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pjfree",
+      "full_name": "Peter Freeman",
+      "job_title": "Finance Apprentice",
+      "department_name": "WW Ops Finance - Onsite Trans",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "frentesc",
+      "full_name": "George Frentescu",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "friejenn",
+      "full_name": "Jennifer Friedman",
+      "job_title": "Principal, Financial Comms",
+      "department_name": "Public Relations - Corp Comm",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "olliefr",
+      "full_name": "Ollie Frost",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ofuica",
+      "full_name": "Oana Fuica",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dfullar",
+      "full_name": "Deepika Fullar",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cfuria",
+      "full_name": "Chris Furia",
+      "job_title": "Dir, TV Production Finance",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "ggangaq",
+      "full_name": "Ganga G",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gpush",
+      "full_name": "Pushpa G",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "meghang",
+      "full_name": "Meghan Gajare",
+      "job_title": "Principal Finance",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lugaleni",
+      "full_name": "Lucas Galeni",
+      "job_title": "Finance Intern",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ybibiang",
+      "full_name": "Bibiana Gallova",
+      "job_title": "Finance Tower",
+      "department_name": "Payroll",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gamangeo",
+      "full_name": "Georgiana Gaman",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "simgandh",
+      "full_name": "Simran Gandhi",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gouthham",
+      "full_name": "Goutham Gandla",
+      "job_title": "AFBP Finance",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kesgar",
+      "full_name": "Kestutis Garalevicius",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gjianfen",
+      "full_name": "Jianfeng Geng",
+      "job_title": "Finance Principal",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "alinateg",
+      "full_name": "Alina Gheorghies",
+      "job_title": "EA, EU&JP Stores Finance",
+      "department_name": "EU Retail Central Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jsgibbo",
+      "full_name": "Josh Gibbons",
+      "job_title": "Dir, Monetization Finance",
+      "department_name": "Financial Planning & Anlys_1N",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "ginjane",
+      "full_name": "Jane Ginsburg",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bgirism",
+      "full_name": "M Girish",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kyglove",
+      "full_name": "Kyle Glover",
+      "job_title": "SFA, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mggolaes",
+      "full_name": "Mihaela-Roxana Golaes",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gabigs",
+      "full_name": "Gabrielle Gomes",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "vidygopa",
+      "full_name": "Vidya Gopalakrishnan",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tvachago",
+      "full_name": "Vachan Gowda A",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gowducb",
+      "full_name": "Bhargavi Gowduchervu",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cgriner",
+      "full_name": "Chris Griner",
+      "job_title": "Head of Finance, Investments",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "grotek",
+      "full_name": "Dominika Grotek",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "grotha",
+      "full_name": "Alex Groth",
+      "job_title": "Principal, Finance Strategy",
+      "department_name": "Global Risk Management &Claims",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "agrzegow",
+      "full_name": "Anna Grzegowska",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gmengmen",
+      "full_name": "Mengmeng Gu",
+      "job_title": "Head of Finance",
+      "department_name": "AWS Management",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gualtj",
+      "full_name": "Jacopo Gualtieri",
+      "job_title": "Senior Finance Anlayts",
+      "department_name": "Accts Payable Retail- VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ehageman",
+      "full_name": "Eric Hagemann",
+      "job_title": "Head, Financial Systems-Ring",
+      "department_name": "Ring Fin/Acct",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "haistk",
+      "full_name": "Kimberly Haistings",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lahawk",
+      "full_name": "Lo Hawkins",
+      "job_title": "Finance Coordinator",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "shalehaw",
+      "full_name": "Shaletta Hawkins",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "chennese",
+      "full_name": "Chris Hennesey",
+      "job_title": "Enterprise Finance Strategist",
+      "department_name": "AWS Enterprise Strategy",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lnicolhe",
+      "full_name": "Nicole Henry",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "terehher",
+      "full_name": "Teresa Herres",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nayanahn",
+      "full_name": "Nayana HN",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lhobbo",
+      "full_name": "Luke Hobbs",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "hogajame",
+      "full_name": "James Hogan",
+      "job_title": "SFM Partner Core Finance",
+      "department_name": "AWS Strategic Initiatives",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "ujenholm",
+      "full_name": "Jen Holme",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "honnh",
+      "full_name": "Hunter Honn",
+      "job_title": "ACS GFV Finance Coordinator",
+      "department_name": "ACS&PT Facilities Vendor Heads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "erhoogev",
+      "full_name": "Eric Hoogeveen",
+      "job_title": "Tech Consultant - Finance Lead",
+      "department_name": "AWS Business Systems",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yuweihua",
+      "full_name": "Yuwei Hua",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "huangtqi",
+      "full_name": "Melody Huang",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "xihuangs",
+      "full_name": "Xi Huang",
+      "job_title": "SA - Financial Service",
+      "department_name": "AWS GCR Sol. Architecture",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "isidhi",
+      "full_name": "Sidhi Isharwalia",
+      "job_title": "Head of Finance - MX Player",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "rithikai",
+      "full_name": "Rithika Iyer",
+      "job_title": "AFBP - Finance",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sasidhaj",
+      "full_name": "Sasidharan J",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jusjacoe",
+      "full_name": "Justin Jacobsen",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jpalak",
+      "full_name": "Palak Jain",
+      "job_title": "Finance Dir, Controllership",
+      "department_name": "Ops Finance - Central",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "ejaisand",
+      "full_name": "Sandeep Jain",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "kunaljai",
+      "full_name": "Kunal Jain",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tjajcaj",
+      "full_name": "Tomas Jajcaj",
+      "job_title": "Finance Team Leader",
+      "department_name": "FinOps - AR CDO - VAR",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "jawahv",
+      "full_name": "Vishnuvardhan Jawaharlal",
+      "job_title": "Principal Finance, EMXO DEX",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "jarjedrz",
+      "full_name": "Jaromir Jedrzejowski",
+      "job_title": "Finance Apprentice",
+      "department_name": "Non-Local FC Variable Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tfjensen",
+      "full_name": "Tiffany Jensen",
+      "job_title": "Head of Financial Serv. (FS)",
+      "department_name": "AB - CPS Sales - VAR",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "jhadharm",
+      "full_name": "Dharmendra Jha",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jiyuefan",
+      "full_name": "Yuefan Jin",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ciaranwf",
+      "full_name": "Ciaran Johnson",
+      "job_title": "Finance Apprentice",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mjoller",
+      "full_name": "Marcus Joller",
+      "job_title": "Finance Business Partner",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mathjuod",
+      "full_name": "Matheus Juodinis",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "qjukatar",
+      "full_name": "Katarzyna Jurec",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jurkovam",
+      "full_name": "Monika Jurkova",
+      "job_title": "Senior Finance Specialist",
+      "department_name": "FinOps - AR AWS - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kbalajir",
+      "full_name": "Balaji K",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kadambm",
+      "full_name": "Mohankrishna Kadambari",
+      "job_title": "Sr. Financial Specialist",
+      "department_name": "Payroll",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mkadiyal",
+      "full_name": "Manasa Kadiyala",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "skalafat",
+      "full_name": "Sava Kalafatides",
+      "job_title": "BIE - Advertising Finance",
+      "department_name": "Creative X - Fixed",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "amardkal",
+      "full_name": "Amardeep Singh Kalsi",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "kerrikam",
+      "full_name": "Kerri Kaminski",
+      "job_title": "Head, WW Theatrical Finance",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "alirazwa",
+      "full_name": "Razwan Karamat Ali",
+      "job_title": "Head of Global Finance & Acct",
+      "department_name": "Audible - Finance & Accounting",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "mariakas",
+      "full_name": "Maria Kassab",
+      "job_title": "Principal Finance",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "kastalav",
+      "full_name": "Avinash Kastala",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "benkearn",
+      "full_name": "Ben Kearney",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kedzig",
+      "full_name": "Grzegorz Kedzierski",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "kedorthy",
+      "full_name": "DorthyMarie Kerr",
+      "job_title": "Senior Financial Systems Anlyt",
+      "department_name": "WFM G&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nayeemi",
+      "full_name": "Irfan Ali Khan",
+      "job_title": "Financial Risk Specialist, L4",
+      "department_name": "AP Waste,Fraud,&Abuse Prev-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jexkidd",
+      "full_name": "Jex Kidd",
+      "job_title": "Finance Apprentice",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kilkiran",
+      "full_name": "Kiran Killedar",
+      "job_title": "EMEA Financial Services PSA",
+      "department_name": "AWS Partner Field EMEA",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "chiwoon",
+      "full_name": "Paul Kim",
+      "job_title": "Principal Finance",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "swapnaak",
+      "full_name": "Swapna KJ",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dkklumpp",
+      "full_name": "Dylan Klumpp",
+      "job_title": "Principal, Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "wilkovac",
+      "full_name": "William Kovac",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "artkoval",
+      "full_name": "Artem Koval",
+      "job_title": "Senior Finance Manger, SCA",
+      "department_name": "SPS Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "kowalil",
+      "full_name": "Ilona Kowalczyk",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "krengorw",
+      "full_name": "Gordon Krenz",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "krisaran",
+      "full_name": "Saranya Krishnakumar",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "RBS Flex Org Variable",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rmadhant",
+      "full_name": "Madhan Kumar",
+      "job_title": "Financial Anal II, GREF FP&A",
+      "department_name": "GREF FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pakhikum",
+      "full_name": "Pakhi Kumar",
+      "job_title": "Teleion GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ekudilip",
+      "full_name": "Dilip Kumar A",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lajikuma",
+      "full_name": "Ajith Kumar Dharuman",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bhakkuma",
+      "full_name": "Bharath Kumar S",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kunkenc",
+      "full_name": "Charles Kunken",
+      "job_title": "Principal Finance",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "kurapraj",
+      "full_name": "Raja Kurapati",
+      "job_title": "WW Financial Services Prin PSA",
+      "department_name": "AWS Partner SA",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tamariv",
+      "full_name": "Tamarine La Vita",
+      "job_title": "Principal Finance",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "sakshisl",
+      "full_name": "Sakshi Lahoti",
+      "job_title": "Automation Lead - Finance ACES",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lamkai",
+      "full_name": "Edwin Lam",
+      "job_title": "SFM Partner Core Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "narnia",
+      "full_name": "Maria Langlais",
+      "job_title": "EA II, NA Stores Finance",
+      "department_name": "NA Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "planzano",
+      "full_name": "Paolo Lanzano",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance - S&A Tech",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mikelara",
+      "full_name": "Miguel Lara",
+      "job_title": "Sr. AE Financial services",
+      "department_name": "Ads Internationl Expansion-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "larsent",
+      "full_name": "Tom Larsen",
+      "job_title": "Dir., Finance Bus Integration",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "alashbrk",
+      "full_name": "Aaron Lashbrook",
+      "job_title": "Finance Apprentice",
+      "department_name": "DaS Finance - EDS&M",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "reneelau",
+      "full_name": "Renee Lau",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "laudilet",
+      "full_name": "Letizia Laudicina",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "anlazars",
+      "full_name": "Ann Lazarski",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "phllle",
+      "full_name": "Phillip Le",
+      "job_title": "BIE - Advertising Finance",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "apollol",
+      "full_name": "Apollo Lee",
+      "job_title": "Head of Finance, Luna Gaming",
+      "department_name": "Amazon Games Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "wenhleeu",
+      "full_name": "Wenhuan Lee",
+      "job_title": "Teleion GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "leeasa",
+      "full_name": "Asa Lee",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "leeshenl",
+      "full_name": "Shen Ling Lee",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lleesabb",
+      "full_name": "Laura Lee-Sabbe",
+      "job_title": "Production Finance Associate",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "leenamga",
+      "full_name": "G A Leena",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aleibrnt",
+      "full_name": "André Leibrant",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "glooria",
+      "full_name": "Gloria Li",
+      "job_title": "Sr. SA - Financial Service",
+      "department_name": "AWS GCR Sol. Architecture",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lyming",
+      "full_name": "Yanming Li",
+      "job_title": "SA - Financial Service",
+      "department_name": "AWS GCR Sol. Architecture",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "alishli",
+      "full_name": "Alisa Li",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lizhhuan",
+      "full_name": "Zhihuan Li",
+      "job_title": "Finance intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yizzi",
+      "full_name": "Harvey Li",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kaylianb",
+      "full_name": "Kay Liang",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mliangyi",
+      "full_name": "Yi Liang",
+      "job_title": "Finance intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "liessen",
+      "full_name": "Nick Liesse",
+      "job_title": "Principal Finance",
+      "department_name": "SPS Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sumiaoo",
+      "full_name": "Sumiao Lin",
+      "job_title": "Finance BA Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "liogancl",
+      "full_name": "Catherine Liogan",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "liushirl",
+      "full_name": "Shirley Liu",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "haoliuv",
+      "full_name": "Hao Liu",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cathlliu",
+      "full_name": "Nianyi Liu",
+      "job_title": "Finance intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "liwinska",
+      "full_name": "Marta Liwinska",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "marklonc",
+      "full_name": "Mark Loncaric",
+      "job_title": "Principal Finance",
+      "department_name": "Home & Lifestyle Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "deepiklr",
+      "full_name": "Deepika LR",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "josetluc",
+      "full_name": "José Lucas",
+      "job_title": "Finance Intern",
+      "department_name": "LATAM Finance Team",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lukalfsw",
+      "full_name": "Swathi Lukalapu",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lgregorr",
+      "full_name": "Gregory Lum",
+      "job_title": "ACS GFV Finance Coordinator",
+      "department_name": "ACS&PT Facilities Vendor Heads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lynchk",
+      "full_name": "Kevin Lynch",
+      "job_title": "Principal Finance",
+      "department_name": "WW Ops Finance - S&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "xnadhiym",
+      "full_name": "Nadhiya M",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "qshalinm",
+      "full_name": "Shalini M",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "madejale",
+      "full_name": "Aleksandra Madej",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "cmagowan",
+      "full_name": "Calum Magowan",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mahantar",
+      "full_name": "Rishiparna Mahanta",
+      "job_title": "Finance Management",
+      "department_name": "Treasury",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "wemakare",
+      "full_name": "Weronika Makarewicz",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jmckemal",
+      "full_name": "McKenzie Malin",
+      "job_title": "Production Finance Executive",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gaelmlk",
+      "full_name": "Gaël Mallick",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nmalpani",
+      "full_name": "Nupur Malpani",
+      "job_title": "Principal Finance AMZL",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sharjman",
+      "full_name": "Sharjeel Manaf",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance - S&A Tech",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aksmano",
+      "full_name": "Akshaya Manoharan",
+      "job_title": "AFBP Finance",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "agmaras",
+      "full_name": "Agata Marasso",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dawmard",
+      "full_name": "Dawid Marciniak",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mareppaa",
+      "full_name": "Anitha Mareppa",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "RBS Flex Org Variable",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tylercm",
+      "full_name": "Tyler Marthaler",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jucasrm",
+      "full_name": "Joao Lucas Martins",
+      "job_title": "Finance Intern",
+      "department_name": "LATAM Finance Team",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "animata",
+      "full_name": "Anisha Mata",
+      "job_title": "AFBP - Finance",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mazmon",
+      "full_name": "Monica Mazararu",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "seanaws",
+      "full_name": "Sean McCarthy",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pmccort",
+      "full_name": "Paul McCort",
+      "job_title": "Head EU LCS Country Finance",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "shmcshef",
+      "full_name": "Shawna McSheffrey",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "lenaorsi",
+      "full_name": "Helena Medeiros Orsi",
+      "job_title": "Finance Business Intelligence",
+      "department_name": "WW Ops Finance - S&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mzvanshi",
+      "full_name": "Vanshi Mehta",
+      "job_title": "Finance Apprentice",
+      "department_name": "WW Fresh Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aakankme",
+      "full_name": "Aakanksha Mehta",
+      "job_title": "AFBP Finance",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "alejaley",
+      "full_name": "Alejandro Melendez",
+      "job_title": "Finance Management - RSR",
+      "department_name": "WW Ops Finance - Onsite Trans",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "jgmerlin",
+      "full_name": "João Merlin",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "midddere",
+      "full_name": "Derek Middlebrook",
+      "job_title": "Dir Finance, AWS Infra, DCO",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "albmilan",
+      "full_name": "Alberto Maria Milan",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "miljeffv",
+      "full_name": "Jeff Miller",
+      "job_title": "CompInt GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "amznjsm",
+      "full_name": "Jim Mills",
+      "job_title": "Principal Finance",
+      "department_name": "Amazon Security Leadership",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pmitchea",
+      "full_name": "Paul Mitchell",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "felipmom",
+      "full_name": "FELIPE MODESTO",
+      "job_title": "Finance Intern",
+      "department_name": "Intl Emerging Stores FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mojtek",
+      "full_name": "Kristina Mojtekova",
+      "job_title": "Sr. Finance Specialist",
+      "department_name": "Accts Payable Retail- VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sreedevd",
+      "full_name": "Sree Mokkarala",
+      "job_title": "Financial Risk Specialist, L4",
+      "department_name": "AP Waste,Fraud,&Abuse Prev-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "monroolg",
+      "full_name": "Olga Monroy",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "smonvois",
+      "full_name": "Sheryl Monvoisin",
+      "job_title": "SFA, EU AMXL Finance",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "annyyary",
+      "full_name": "Yariela Mora Naranjo",
+      "job_title": "Finance Business Intel L4",
+      "department_name": "Global Finance Solutions FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nikmoran",
+      "full_name": "Niccolo Moran",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance-E2E International",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "anmoreii",
+      "full_name": "Andrea Moreira Coghi",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "morthasa",
+      "full_name": "Sandhya Mortha",
+      "job_title": "Financial Specialist",
+      "department_name": "Payroll",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "amosimi",
+      "full_name": "Abraham Mosimi",
+      "job_title": "Financial Controller",
+      "department_name": "Amazon CS Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "muellefr",
+      "full_name": "Frank Mueller",
+      "job_title": "SFA, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "hasanmj",
+      "full_name": "Hasan Muhammad",
+      "job_title": "Finance Business Partner",
+      "department_name": "IES MVR - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ammurale",
+      "full_name": "Ajay Muraleedharan",
+      "job_title": "Managed Spend Finance Lead",
+      "department_name": "Amazon Business Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "musteatg",
+      "full_name": "Gabriela Catalina Musteata",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "couragem",
+      "full_name": "Kudzai Musvipa",
+      "job_title": "Finance Apprentice",
+      "department_name": "Non-Local FC Variable Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "oneeraja",
+      "full_name": "Neeraja N",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ashikaam",
+      "full_name": "Ashika N",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "pushpaln",
+      "full_name": "Pushpalatha N",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "nraishwa",
+      "full_name": "Aishwarya N",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "suvarnns",
+      "full_name": "Suvarna N S",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rahunaic",
+      "full_name": "Rahul Naik",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nakouzio",
+      "full_name": "Omar Nakouzi",
+      "job_title": "Finance Partner, A-Now",
+      "department_name": "MENA Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nshali",
+      "full_name": "Shalini Narsini",
+      "job_title": "Financial Risk Specialist",
+      "department_name": "AP Waste,Fraud,&Abuse Prev-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "enmatheo",
+      "full_name": "Enrique Nascimbem",
+      "job_title": "Finance Intern",
+      "department_name": "LATAM Finance Team",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nnssm",
+      "full_name": "Eric Nassam",
+      "job_title": "Head of Finance EU5/Sport",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "rachnaya",
+      "full_name": "Rachana Nayak",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nnealexa",
+      "full_name": "Alexandra Negoita",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "luinery",
+      "full_name": "Luis Nery",
+      "job_title": "Sr. Finance Business Partner",
+      "department_name": "Digital Payments - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "manoelne",
+      "full_name": "Manoel Neto",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ngbrian",
+      "full_name": "Brian Ng",
+      "job_title": "Head of Finance Japan & ANZ",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "nguysan",
+      "full_name": "Sandy Nguyen",
+      "job_title": "Teleion GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "xnguyluc",
+      "full_name": "Luc Nguyen",
+      "job_title": "MRI GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nimmal",
+      "full_name": "Mounika Nimmala",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "krnomura",
+      "full_name": "Kristin Nomura",
+      "job_title": "Production Finance Executive",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lanorali",
+      "full_name": "Laura Norali Dose",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "cnovaes",
+      "full_name": "Carol Novaes",
+      "job_title": "Head of Finance BR Stores",
+      "department_name": "LATAM Finance Team",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "felipeon",
+      "full_name": "Felipe Nunes",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "marodon",
+      "full_name": "Mark O'Donnell",
+      "job_title": "Financial Services Specialist",
+      "department_name": "HQ-AWSI-FS IndustryBD/GTM-AWSI",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gocchiut",
+      "full_name": "Gabriel Occhiutto",
+      "job_title": "Head of Finance, APAC PLX+DEX",
+      "department_name": "Intl Emerging Finance FP&A",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "mondayo",
+      "full_name": "Monday Ogbobi",
+      "job_title": "Principal Finance - WW ABCS",
+      "department_name": "Amazon CS Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "maorellm",
+      "full_name": "Maria Orell Moll",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance - S&A Tech",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ohmelani",
+      "full_name": "Melanie Ortega",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "olioko",
+      "full_name": "Olivia Orzeszko",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sunithap",
+      "full_name": "Sunitha P",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pqnithy",
+      "full_name": "Nithya P",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rajalap",
+      "full_name": "Rajalakshmi P",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aaapaiva",
+      "full_name": "André Paiva",
+      "job_title": "Finance Intern",
+      "department_name": "International Seller Srvcs Fin",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lulupan",
+      "full_name": "Luyu Pan",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "anyashri",
+      "full_name": "Ananya Pankaj",
+      "job_title": "Finance Anlayst",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rosepan",
+      "full_name": "Rose Pansick",
+      "job_title": "Principal, AP Finance",
+      "department_name": "Pharmacy Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "shrespar",
+      "full_name": "Shresth Parakh",
+      "job_title": "AFBP - Finance",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "parhimic",
+      "full_name": "Michael Parhas",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jinhyp",
+      "full_name": "Jin Hyeong Park",
+      "job_title": "Head of Finance, Korea",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "rahelapa",
+      "full_name": "Rahela Pashaj",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "divypasu",
+      "full_name": "Divya Pasumarthy",
+      "job_title": "Senior Associate Finance",
+      "department_name": "IN Category Mgmt - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "spanikit",
+      "full_name": "NIKITA PATIL",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jpatrone",
+      "full_name": "Joshua Patrone",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sppz",
+      "full_name": "Sai Kiran Paturi",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bpede",
+      "full_name": "Braden Pederson",
+      "job_title": "Financial Health Specialist",
+      "department_name": "Benefits",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yunrup",
+      "full_name": "Sophia Peng",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lucaspew",
+      "full_name": "Lucas Pereira",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mtecklin",
+      "full_name": "Miranda Perelman",
+      "job_title": "Sr Finance Principal",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "pieleann",
+      "full_name": "Anna Pielesiak",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pissinat",
+      "full_name": "Jéssica Pissinati",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance-E2E International",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ghercam",
+      "full_name": "Monica Plesca",
+      "job_title": "Sr Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "neehapod",
+      "full_name": "Neeharika Poduri",
+      "job_title": "Finance Six Sigma Black belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "pponsb",
+      "full_name": "Pablo Pons Bravo",
+      "job_title": "Finance Business Partner",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "cpoppen",
+      "full_name": "Clint Poppens",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "potpare",
+      "full_name": "Paris Potivejkul",
+      "job_title": "Principal Finance",
+      "department_name": "Amazon Music Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "benpottj",
+      "full_name": "Benjamin Pott",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nelliept",
+      "full_name": "Nellie Pournader",
+      "job_title": "Dir, Finance, AWS Channels",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 12
+    },
+    {
+      "username": "divprem",
+      "full_name": "Divya Premkumar",
+      "job_title": "Finance Business Partner",
+      "department_name": "MENA Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dionqa",
+      "full_name": "Dion Qamili",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mqquello",
+      "full_name": "Michael Quello",
+      "job_title": "CFO/COO - Shopbop and Zappos",
+      "department_name": "Shopbop G&A",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "sarahqur",
+      "full_name": "Sarah Qureshi",
+      "job_title": "AB Global Finance Controller",
+      "department_name": "Amazon Business Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rfrohan",
+      "full_name": "Rohan R",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rsamuem",
+      "full_name": "Samuel R",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "andonofr",
+      "full_name": "Andreea-Iuliana Rab",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rabinovz",
+      "full_name": "Zhenya Rabinovich",
+      "job_title": "CSM AWS Federal Financials",
+      "department_name": "AWSWWPS:US-Fed Fin(Sales&Supp)",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "raghunav",
+      "full_name": "Vijayaraghavan Raghunathan",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rajasail",
+      "full_name": "Sailesh Raja",
+      "job_title": "Sr. Cloud Financial Management",
+      "department_name": "AWS GDSP Cloud Economics",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "priyraja",
+      "full_name": "Priyadharshini Rajan",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "kirurama",
+      "full_name": "Kiru Ramachandran",
+      "job_title": "Principal Finance",
+      "department_name": "Amazon Payments Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "deesrane",
+      "full_name": "Deesha Rane",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rasudhae",
+      "full_name": "Sudha Rani",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gulbanor",
+      "full_name": "Gulbano Rashid",
+      "job_title": "Finance Apprentice",
+      "department_name": "Field-AGS-UKI-ENT-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gravu",
+      "full_name": "G S Udaya Ravuri",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "reczkdom",
+      "full_name": "Dominika Reczkowska",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dreddyhr",
+      "full_name": "Divakar Reddy HR",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "reissigm",
+      "full_name": "Marco Reissig",
+      "job_title": "Dir, AWS Industries Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "abrenz",
+      "full_name": "Andrew Renzella",
+      "job_title": "AR Lead, Financial Services",
+      "department_name": "AWS Analyst Relations",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "reyesgoc",
+      "full_name": "Cecilia Reyes",
+      "job_title": "EA, LatAm Finance",
+      "department_name": "LATAM Finance Team",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "madurib",
+      "full_name": "Maria Eduarda Ribeiro Santos",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ricaym",
+      "full_name": "Aymeric Richard",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "arrichar",
+      "full_name": "Andy Richards",
+      "job_title": "EU Agency Finance Lead",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "joerix",
+      "full_name": "Joe Rix",
+      "job_title": "Finance Apprentice",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rberadr",
+      "full_name": "Adrian Roberts",
+      "job_title": "Head of Financial Services SA",
+      "department_name": "Field-AGS-UKI-ENT-CS",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "kelseylr",
+      "full_name": "Kelsey Robinson",
+      "job_title": "Executive Assistant AB Finance",
+      "department_name": "Amazon Business Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jgmr",
+      "full_name": "João Rodrigues",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "froeser",
+      "full_name": "Frank Roeser",
+      "job_title": "Financial Services Specialist",
+      "department_name": "Field-AGS-WWISpecialist-All-CS",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "trols",
+      "full_name": "Tommy Rolston",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "roulsts",
+      "full_name": "Shannon Roulston",
+      "job_title": "Head of AM, Financial Services",
+      "department_name": "WW Large CS US - SAM - VAR",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "roytrish",
+      "full_name": "Trisha Roy",
+      "job_title": "Sr Finance Manger, EU Inbound",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "femerces",
+      "full_name": "Felipe Ruiz Mercês",
+      "job_title": "Finance Intern",
+      "department_name": "Digital Content Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ruprah",
+      "full_name": "Amar Ruprah",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rnksho",
+      "full_name": "Kishore S R",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "jaspalsw",
+      "full_name": "Jaspal Singh Sachdeva",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "smsaenz",
+      "full_name": "Shea Saenz",
+      "job_title": "Sr. Financial Anlayst",
+      "department_name": "DaS Finance - AGI",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "meenasaj",
+      "full_name": "Meenakshi Saji",
+      "job_title": "AFBP - Finance",
+      "department_name": "IN Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sanchion",
+      "full_name": "Andrea Sanchioni",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "probirsa",
+      "full_name": "Probir Sarkar",
+      "job_title": "JLLOAR GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "gsaragni",
+      "full_name": "Agnieszka Sarnecka",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "schoblom",
+      "full_name": "Cassidy Schoblom",
+      "job_title": "EA, Amazon Health Finance",
+      "department_name": "AHS Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "snanthin",
+      "full_name": "Nanthini Devi Sekar",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sekharen",
+      "full_name": "Renu Sekhar Y",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "meagansf",
+      "full_name": "Meagan Sellan-Farley",
+      "job_title": "Gestionnaire des finances (FM)",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "selvatst",
+      "full_name": "Stefano Selvatico",
+      "job_title": "Finance Apprentice",
+      "department_name": "EU OHL Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ssergs",
+      "full_name": "Sophia Sergides",
+      "job_title": "Finance Apprentice",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rhushah",
+      "full_name": "Rahul Shah",
+      "job_title": "EMEA Financial Services PDS",
+      "department_name": "AWS Partner Field EMEA",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "dhruvits",
+      "full_name": "Dhruvit Shah",
+      "job_title": "Finance Principal",
+      "department_name": "Ops Finance-E2E North America",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "shahvp",
+      "full_name": "Vrunda Shah",
+      "job_title": "BIE-Grocery Finance Analytics",
+      "department_name": "AFS Ops Field Reg. Mgmt-Fixed",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kvshshah",
+      "full_name": "Kush Shah",
+      "job_title": "Finance Apprentice",
+      "department_name": "EU OHL Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "yajnikas",
+      "full_name": "Yajnika Sharma",
+      "job_title": "SFM Partner Core Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "ishettsu",
+      "full_name": "Sunil Shetty",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "shikyoua",
+      "full_name": "Kyouai Shiono",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rshinika",
+      "full_name": "Nika Shirazi",
+      "job_title": "ACS GFV Finance Coordinator",
+      "department_name": "ACS&PT Facilities Vendor Heads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 2
+    },
+    {
+      "username": "shohayeb",
+      "full_name": "Mohamed Shohayeb",
+      "job_title": "Finance Partner, MENAT 3P",
+      "department_name": "MENA Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "silvpauy",
+      "full_name": "Paul Silvernail",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 9
+    },
+    {
+      "username": "gurindar",
+      "full_name": "Gurindar Singh",
+      "job_title": "Financial Services Specialist",
+      "department_name": "HQ-AWSI-FS IndustryBD/GTM-AWSI",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nitissi",
+      "full_name": "Nitish Singh",
+      "job_title": "Principal, Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jivjot",
+      "full_name": "Jivjot Singh",
+      "job_title": "AFBP Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sinralok",
+      "full_name": "Alok Singh",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "kdsinghs",
+      "full_name": "Deepak Raj Singh S",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "naksiva",
+      "full_name": "Navin Sivaketheesan",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "skeelsk",
+      "full_name": "Kevin Skeels",
+      "job_title": "CompInt GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "richard",
+      "full_name": "Richard Skidmore",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Business Systems",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jshsmth",
+      "full_name": "Joshua Smith",
+      "job_title": "Finance Apprentice",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "breannes",
+      "full_name": "Breanne Sommer",
+      "job_title": "EA II, Stores Finance",
+      "department_name": "SPS Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "trsouthw",
+      "full_name": "Trent Southwick",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "spandani",
+      "full_name": "Daniel Spangler",
+      "job_title": "Snr Program Mngr - Finance",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "spedoju",
+      "full_name": "Julia Spedo",
+      "job_title": "Finance Intern",
+      "department_name": "Intl Emerging Stores FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ramysrin",
+      "full_name": "Ramya Srinivasan",
+      "job_title": "Sr Finance Principal",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rishiksr",
+      "full_name": "Rishika Srivastava",
+      "job_title": "AFBP - Finance",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mdstep",
+      "full_name": "Matthew Stephenson",
+      "job_title": "UK Production Finance Exec",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tsstrych",
+      "full_name": "Tracy Strycharski",
+      "job_title": "Principal Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sunxins",
+      "full_name": "Xin Sun",
+      "job_title": "Finance Manger, CNCS",
+      "department_name": "Amazon CS Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sunderme",
+      "full_name": "Augie Sundermeier",
+      "job_title": "Inbound & Supply Chain Finance",
+      "department_name": "WW Ops Finance - Trans Support",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 8
+    },
+    {
+      "username": "mbertoll",
+      "full_name": "Mariana Suzuki",
+      "job_title": "Finance Intern",
+      "department_name": "Ops Finance-E2E International",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "bensyn",
+      "full_name": "Ben Syn",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 3
+    },
+    {
+      "username": "tkarthts",
+      "full_name": "KARTHIKA T S",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sohaibt",
+      "full_name": "Sohaib Tahir",
+      "job_title": "Principal SA, SLG Finance",
+      "department_name": "AWS WWPS State&L Government SA",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "abctalha",
+      "full_name": "Abu Talha K",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tanveang",
+      "full_name": "Angela Tan Veal",
+      "job_title": "Eisner GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "salexa",
+      "full_name": "Alexandra Teichert",
+      "job_title": "Principal, Finance",
+      "department_name": "Finance Operations Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "leoternz",
+      "full_name": "Leonardo Terenzi",
+      "job_title": "Finance Intern",
+      "department_name": "International Seller Srvcs Fin",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "thadanip",
+      "full_name": "Priya Thadani",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "laveen",
+      "full_name": "Laveena Thakur",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "athomsoo",
+      "full_name": "Alexandra Thomson",
+      "job_title": "Finance Apprentice",
+      "department_name": "DE Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "thorpeh",
+      "full_name": "Harrison Thorpe",
+      "job_title": "Finance Apprentice",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "andreitp",
+      "full_name": "Andrei Tipa",
+      "job_title": "Financial Deduction Expert",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "tiwaadio",
+      "full_name": "Aditi Tiwary",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jctjct",
+      "full_name": "Joe Tomlinson",
+      "job_title": "Finance Apprentice",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "torrspg",
+      "full_name": "Antonio Torres",
+      "job_title": "Originals Finance ROW",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 4
+    },
+    {
+      "username": "laupascu",
+      "full_name": "Laura Toruste",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "trarsama",
+      "full_name": "Samantha Trainque",
+      "job_title": "EA I, Stores Finance",
+      "department_name": "Stores Finance G&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "uindhuja",
+      "full_name": "Indhuja U",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nehalupa",
+      "full_name": "Nehal Upadhayay",
+      "job_title": "Finance Dir: India Controller",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 6
+    },
+    {
+      "username": "urbinkat",
+      "full_name": "Katerine Urbina",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "fhusta",
+      "full_name": "Hulya Ustaosmanoglu",
+      "job_title": "Senior Financial Specialist TR",
+      "department_name": "FinOps - AR CDO - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "varshino",
+      "full_name": "Varshini V",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "govaldez",
+      "full_name": "Guillermo Valdez",
+      "job_title": "FM, WW Real Estate Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "rlomari",
+      "full_name": "Maria Van Scyoc",
+      "job_title": "JLL GREF A&RM Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "vvvvss",
+      "full_name": "Vidhyadhar Vangaveti",
+      "job_title": "Financial Risk Specialist, L4",
+      "department_name": "AP Waste,Fraud,&Abuse Prev-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "alexmvaz",
+      "full_name": "Alex Vaz",
+      "job_title": "Finance Principal",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "mayrmon",
+      "full_name": "Mayra Vega",
+      "job_title": "Financial Specialist - ES",
+      "department_name": "FinOps - AR CDO - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "popligia",
+      "full_name": "Ligia-Alexandra Viieru",
+      "job_title": "Financial Deduction Consultant",
+      "department_name": "Paid Services-Vendor(EU) - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mbuades",
+      "full_name": "Martí Vila Buades",
+      "job_title": "Sr Finance Specialist",
+      "department_name": "Accts Payable NonInventory-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lfelivi",
+      "full_name": "Felipe Villalobos",
+      "job_title": "Finance Business Intel L4",
+      "department_name": "Global Finance Solutions FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "vithalry",
+      "full_name": "Ryan Vithal",
+      "job_title": "Production Finance Executive",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "lvolk",
+      "full_name": "Lauren Volkodav",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "wadeeva",
+      "full_name": "Evan Wade",
+      "job_title": "Unify GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "zwahid",
+      "full_name": "Zainab Wahid",
+      "job_title": "Finance Apprentice",
+      "department_name": "DE Stores Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "wanjarir",
+      "full_name": "Roshan Wanjari",
+      "job_title": "Finance ACES Black Belt",
+      "department_name": "FinOps ACES - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "nwarda",
+      "full_name": "Ninos Warda",
+      "job_title": "Principal Finance",
+      "department_name": "Canada & NA Expansion Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "fewata",
+      "full_name": "Felipe Watanabe",
+      "job_title": "Finance Intern",
+      "department_name": "Tax",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "weisseri",
+      "full_name": "Eric Weiss",
+      "job_title": "Trans Finance Transformation",
+      "department_name": "WW Ops Finance - FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "oyepweng",
+      "full_name": "Yeping Weng",
+      "job_title": "Principal Finance",
+      "department_name": "Advertising Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "aawibowo",
+      "full_name": "Andrea Wibowo",
+      "job_title": "FA, Amazon Studios G&A Finance",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "stepamj",
+      "full_name": "Stephanie Williams",
+      "job_title": "Snr Finance Business Partner",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "seanwil",
+      "full_name": "Sean Wilson (Finance)",
+      "job_title": "Finance Dir, Robotics & Safety",
+      "department_name": "Ops Finance - Central",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 7
+    },
+    {
+      "username": "jrwilton",
+      "full_name": "Jackie Wilton",
+      "job_title": "Production Finance Associate",
+      "department_name": "Amazon Studios G&A Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "winkand",
+      "full_name": "Andrej Winkler",
+      "job_title": "Senior Finance Specialist",
+      "department_name": "FinOps - AR AWS - VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "wwanyuw",
+      "full_name": "Wan Yu Wong",
+      "job_title": "Finance intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "wyunni",
+      "full_name": "Yunni Wu",
+      "job_title": "Finance BA Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ythri",
+      "full_name": "Thrinadh Yalamanchili",
+      "job_title": "Sr BIE, Public Sector Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "musadhiy",
+      "full_name": "Musadhiq Yavar",
+      "job_title": "Principal Finance",
+      "department_name": "Amazon Business Central (F)",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jpymoura",
+      "full_name": "Joao Younes",
+      "job_title": "Finance Intern",
+      "department_name": "Accounting",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "jordaryo",
+      "full_name": "Jordan Young",
+      "job_title": "Patient Financial Svcs Spec",
+      "department_name": "One Medical-Clinic Supp-SH-VAR",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "josehyou",
+      "full_name": "Joseph Younge",
+      "job_title": "Infosys GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "xueyug",
+      "full_name": "XUE YU",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "caroyuen",
+      "full_name": "Carolyn Yuen",
+      "job_title": "SFM Financial Planning",
+      "department_name": "Ops Finance - Central",
+      "level": 3,
+      "is_manager": true,
+      "direct_reports": 5
+    },
+    {
+      "username": "ludozan",
+      "full_name": "Ludovico Zanette",
+      "job_title": "DE Production Finance Exec",
+      "department_name": "Prime Video Finance",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "corzanni",
+      "full_name": "Corinna Zannini",
+      "job_title": "Finance Business Partner",
+      "department_name": "WW Ops Finance - Onsite CF",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "zarefora",
+      "full_name": "Ryan Zarefoss",
+      "job_title": "CSM AWS Federal Financials",
+      "department_name": "AWSWWPS:US-Fed Fin(Sales&Supp)",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ayanzhzh",
+      "full_name": "Dora Zhang",
+      "job_title": "JLL GREF FP&A Finance",
+      "department_name": "Corporate Facility VendorHeads",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "zhjxin",
+      "full_name": "Jingxin Zhang",
+      "job_title": "SA - Financial Service",
+      "department_name": "AWS GCR Sol. Architecture",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "elainezh",
+      "full_name": "Elaine Zhu",
+      "job_title": "Principal Finance",
+      "department_name": "AWS Finance&GlobalBusinessSvcs",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "sidanzhu",
+      "full_name": "Sidan Zhu",
+      "job_title": "Finance Intern",
+      "department_name": "WW Ops Finance-Global Mile Sup",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "mihirz",
+      "full_name": "Mihir Zinzuwadia",
+      "job_title": "Principal Finance",
+      "department_name": "WW Ops Finance - CF Support",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    },
+    {
+      "username": "ezurod",
+      "full_name": "Eduardo Zúñiga Rodríguez",
+      "job_title": "Finance Business Intel L4",
+      "department_name": "Global Finance Solutions FP&A",
+      "level": 3,
+      "is_manager": false,
+      "direct_reports": 0
+    }
+  ]
+}

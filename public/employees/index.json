@@ -1,0 +1,153 @@
+{
+  "categories": [
+    {
+      "name": "executives",
+      "count": 4111,
+      "keywords": [
+        "CEO",
+        "President",
+        "SVP",
+        "Senior Vice President",
+        "Chief"
+      ]
+    },
+    {
+      "name": "vps",
+      "count": 1107,
+      "keywords": [
+        "VP",
+        "Vice President"
+      ]
+    },
+    {
+      "name": "directors",
+      "count": 3799,
+      "keywords": [
+        "Director"
+      ]
+    },
+    {
+      "name": "managers",
+      "count": 130941,
+      "keywords": [
+        "Manager",
+        "Mgr",
+        "SDM",
+        "Senior Development Manager"
+      ]
+    },
+    {
+      "name": "engineers",
+      "count": 104323,
+      "keywords": [
+        "Engineer",
+        "SDE",
+        "Software Development Engineer",
+        "Developer",
+        "Dev"
+      ]
+    },
+    {
+      "name": "tpm",
+      "count": 2320,
+      "keywords": [
+        "TPM",
+        "Technical Program Manager"
+      ]
+    },
+    {
+      "name": "pm",
+      "count": 34601,
+      "keywords": [
+        "PM",
+        "Product Manager",
+        "Program Manager"
+      ]
+    },
+    {
+      "name": "designers",
+      "count": 10892,
+      "keywords": [
+        "Designer",
+        "UX",
+        "UI",
+        "Design"
+      ]
+    },
+    {
+      "name": "data",
+      "count": 32095,
+      "keywords": [
+        "Data",
+        "Analyst",
+        "Scientist",
+        "ML",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "operations",
+      "count": 25695,
+      "keywords": [
+        "Operations",
+        "Ops",
+        "Support",
+        "Customer"
+      ]
+    },
+    {
+      "name": "sales",
+      "count": 7996,
+      "keywords": [
+        "Sales",
+        "Account",
+        "Business Development"
+      ]
+    },
+    {
+      "name": "marketing",
+      "count": 2348,
+      "keywords": [
+        "Marketing",
+        "Growth",
+        "Brand"
+      ]
+    },
+    {
+      "name": "hr",
+      "count": 8678,
+      "keywords": [
+        "HR",
+        "People",
+        "Recruiting",
+        "Talent"
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 529,
+      "keywords": [
+        "Finance",
+        "Accounting",
+        "CFO",
+        "Financial"
+      ]
+    },
+    {
+      "name": "legal",
+      "count": 1720,
+      "keywords": [
+        "Legal",
+        "Counsel",
+        "Attorney"
+      ]
+    },
+    {
+      "name": "other",
+      "count": 284839,
+      "keywords": []
+    }
+  ],
+  "total_employees": 655994,
+  "generated_at": "2025-10-03T17:20:23.906Z"
+}

@@ -1,0 +1,106 @@
+{
+  "category": "svp",
+  "total_count": 11,
+  "generated_at": "2025-10-03T17:19:53.471Z",
+  "employees": [
+    {
+      "username": "galettib",
+      "full_name": "Beth Galetti",
+      "job_title": "SVP, People eXperience & Tech",
+      "department_name": "PXT Administration",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "james",
+      "full_name": "James Hamilton (Seattle)",
+      "job_title": "SVP/Distinguished Engineer",
+      "department_name": "Corporate",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 1
+    },
+    {
+      "username": "herdener",
+      "full_name": "Drew Herdener",
+      "job_title": "SVP, Comms&Corp Responsibility",
+      "department_name": "CCR Leadership",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "mikehopk",
+      "full_name": "Mike Hopkins",
+      "job_title": "SVP, Amazon Video and Studios",
+      "department_name": "PV WW",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "kotas",
+      "full_name": "Paul Kotas",
+      "job_title": "SVP Ads, IMDb, Grand Challenge",
+      "department_name": "Ads AIGC Management - Fixed",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 17
+    },
+    {
+      "username": "krawiec",
+      "full_name": "Peter Krawiec",
+      "job_title": "SVP, WW Corporate Development",
+      "department_name": "Business & Corp Development",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "olsavsky",
+      "full_name": "Brian Olsavsky",
+      "job_title": "SVP & CFO",
+      "department_name": "FGBS Administration",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 11
+    },
+    {
+      "username": "panosp",
+      "full_name": "Panos Panay",
+      "job_title": "SVP, Devices & Services",
+      "department_name": "Amazon Devices & Services Mng",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 20
+    },
+    {
+      "username": "roprasad",
+      "full_name": "Rohit Prasad",
+      "job_title": "SVP & Head Scientist, AGI",
+      "department_name": "AGI",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 13
+    },
+    {
+      "username": "steve",
+      "full_name": "Steve Schmidt (Security)",
+      "job_title": "SVP, Chief Security Officer",
+      "department_name": "Amazon Security Leadership",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 10
+    },
+    {
+      "username": "davidz",
+      "full_name": "David Zapolsky",
+      "job_title": "SVP, Global Affairs & Legal",
+      "department_name": "Legal",
+      "level": 1,
+      "is_manager": true,
+      "direct_reports": 13
+    }
+  ]
+}
