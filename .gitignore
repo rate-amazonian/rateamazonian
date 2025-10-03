@@ -23,3 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 node_modules
+
+# Large data files - keep locally but don't commit
+public/employees/other.json
+src/data/phonetool-all-employees.json
+public/phonetool-all-employees.json
+public/medium-employees.json
+public/test-employees.json
