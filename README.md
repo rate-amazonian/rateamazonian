@@ -62,7 +62,30 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/87819845-cf98-4d10-9349-9b1f4a15b90a) and click on Share -> Publish.
+### GitHub Pages (Recommended)
+
+This project is configured for automatic deployment to GitHub Pages using GitHub Actions.
+
+**Setup Instructions:**
+
+1. **Enable GitHub Pages in your repository:**
+   - Go to your repository on GitHub
+   - Navigate to Settings → Pages
+   - Under "Source", select "GitHub Actions"
+
+2. **Push your code:**
+   - The deployment workflow will automatically trigger on every push to the `main` branch
+   - Your site will be available at: `https://suzyzou.github.io/rateamazonian`
+
+3. **Manual deployment:**
+   ```sh
+   npm run build
+   # The dist folder will be automatically deployed via GitHub Actions
+   ```
+
+### Alternative: Lovable Platform
+
+You can also deploy using [Lovable](https://lovable.dev/projects/87819845-cf98-4d10-9349-9b1f4a15b90a) by clicking on Share → Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
