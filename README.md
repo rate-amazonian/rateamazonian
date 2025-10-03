@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-### GitHub Pages (Recommended)
+### GitHub Pages (Recommended) - Updated
 
 This project is configured for automatic deployment to GitHub Pages using GitHub Actions.
 
