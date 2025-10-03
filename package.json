@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rateamazonian.github.io/rateamazonian",
+  "homepage": "https://rate-amazonian.github.io/rateamazonian",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

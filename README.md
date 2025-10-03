@@ -75,7 +75,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 
 2. **Push your code:**
    - The deployment workflow will automatically trigger on every push to the `main` branch
-   - Your site will be available at: `https://suzyzou.github.io/rateamazonian`
+   - Your site will be available at: `https://rate-amazonian.github.io/rateamazonian`
 
 3. **Manual deployment:**
    ```sh
