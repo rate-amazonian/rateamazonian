@@ -67,10 +67,9 @@ const Swipe = () => {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen flex items-center justify-center" style={{
-        background: '#B6898D',
-        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
-      }}>
+        <div className="min-h-screen flex items-center justify-center" style={{
+          background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+        }}>
         <div className="text-2xl font-semibold text-white">Loading...</div>
       </div>
     );
@@ -79,8 +78,7 @@ const Swipe = () => {
   if (!bosses || bosses.length === 0) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center p-4" style={{
-        background: '#B6898D',
-        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+          background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
       }}>
         <div className="text-2xl font-bold mb-4 text-white">No bosses to swipe yet!</div>
         <Button variant="outline" onClick={() => navigate("/")}>Go Home</Button>
@@ -91,8 +89,7 @@ const Swipe = () => {
   if (currentIndex >= bosses.length) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center p-4" style={{
-        background: '#B6898D',
-        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+          background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
       }}>
         <div className="text-3xl font-bold mb-4 text-white">You've seen them all!</div>
         <Button onClick={() => setCurrentIndex(0)} className="mb-2">

@@ -81,8 +81,7 @@ const BossProfile = () => {
   if (isLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center" style={{
-        background: '#B6898D',
-        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+          background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
       }}>
         <div className="text-2xl font-semibold text-white">Loading...</div>
       </div>
@@ -92,8 +91,7 @@ const BossProfile = () => {
   if (!boss) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center" style={{
-        background: '#B6898D',
-        background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+          background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
       }}>
         <div className="text-2xl font-bold mb-4 text-white">Amazonian not found</div>
         <Button onClick={() => navigate("/")}>Go Home</Button>
@@ -103,8 +101,7 @@ const BossProfile = () => {
 
   return (
     <div className="min-h-screen" style={{
-      background: '#B6898D',
-      background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
+          background: 'radial-gradient(at left top, #B6898D, #28AFFB)'
     }}>
       {/* Header */}
       <div className="bg-card/50 backdrop-blur-sm border-b sticky top-0 z-10">
