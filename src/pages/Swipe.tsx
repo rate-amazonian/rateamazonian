@@ -104,8 +104,7 @@ const Swipe = () => {
 
   return (
     <div className="min-h-screen flex flex-col" style={{
-      background: '#ECBB39',
-      background: 'radial-gradient(at left top, #ECBB39, #EB6D2E)'
+        background: 'radial-gradient(at left top, #ECBB39, #EB6D2E)'
     }}>
       <Link to="/" className="fixed top-4 left-4 z-50 flex items-center gap-2">
         <div
